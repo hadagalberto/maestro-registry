@@ -5,7 +5,9 @@
 // src/validate.ts.
 
 export type SkillCli = 'claude' | 'codex' | 'gemini'
-export type CatalogItemType = 'skill' | 'agent' | 'hook'
+// F8 (MCP install, Terminal) — 'mcp' espelha CatalogItemType em shared/skills.ts do app;
+// o instalador (installByType.ts) já sabe rotear type=mcp (merge no config MCP do CLI).
+export type CatalogItemType = 'skill' | 'agent' | 'hook' | 'mcp'
 
 export interface CatalogSource {
   registry: string // id da fonte (= sources/<id>.json), também prefixo do namespace do id
@@ -66,7 +68,7 @@ export interface RawCandidate {
 
 export interface SourceConfig {
   id: string
-  adapter: 'skillmd' | 'agentmd' | 'hookjson'
+  adapter: 'skillmd' | 'agentmd' | 'hookjson' | 'mcpServer'
   repo: string
   ref: string
   type: CatalogItemType
@@ -81,4 +83,8 @@ export interface SourceConfig {
   tags?: string[]
   include?: string[]
   exclude?: string[]
+  // mcpServer — base da Generic Registry API (registry.modelcontextprotocol.io). `repo`/`ref`
+  // continuam obrigatórios pelo shape acima mas não são usados por este adapter (não há UM
+  // repo upstream — a fonte agrega servidores de repos diferentes); ver aggregate.ts main().
+  apiUrl?: string
 }

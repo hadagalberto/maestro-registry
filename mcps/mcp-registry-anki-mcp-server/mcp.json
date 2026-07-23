@@ -1,0 +1,8 @@
+{
+  "transport": "stdio",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@ankimcp/anki-mcp-server@0.22.5"
+  ]
+}

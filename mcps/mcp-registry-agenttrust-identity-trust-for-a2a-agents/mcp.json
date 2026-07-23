@@ -1,0 +1,11 @@
+{
+  "transport": "stdio",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@agenttrust/mcp-server@1.1.1"
+  ],
+  "env": {
+    "AGENTTRUST_API_KEY": "${AGENTTRUST_API_KEY}"
+  }
+}

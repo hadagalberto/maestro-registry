@@ -1,0 +1,14 @@
+{
+  "id": "mcp-registry",
+  "adapter": "mcpServer",
+  "repo": "modelcontextprotocol/registry",
+  "ref": "main",
+  "type": "mcp",
+  "apiUrl": "https://registry.modelcontextprotocol.io",
+  "clis": ["claude", "codex", "gemini"],
+  "mixedLicense": true,
+  "materialize": true,
+  "limit": 12,
+  "tags": ["mcp", "community"],
+  "_comment": "Generic Registry API oficial do MCP (registry.modelcontextprotocol.io, GET /v0/servers?version=latest). Cap CONSERVADOR (ver src/adapters/mcpServer.ts): só entram servidores com remoto http/sse OU pacote npm stdio sem runtimeArguments/packageArguments (evita risco de injeção via argumento de linha de comando), E com repository.url de um repo GitHub cujo license.spdx_id resolve pra allowlist — sem isso o item é pulado (não aparece no índice, sem needsReview específico porque não é um erro, é o universo elegível hoje). `repo`/`ref` acima são placeholders exigidos pelo shape de SourceConfig, não usados pelo adapter (não há um repo upstream único — cada servidor vem de um repo diferente)."
+}

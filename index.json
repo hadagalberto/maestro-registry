@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T03:45:01.178Z",
+  "updatedAt": "2026-07-23T04:30:14.386Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1163,6 +1163,351 @@
         "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json",
         "ref": "main",
         "sha": "65a41de"
+      }
+    },
+    {
+      "id": "mcp-registry-agentic-terminal-directory",
+      "name": "Agentic Terminal Directory",
+      "description": "Verified merchants accepting agentic payments on Lightning/L402/BOLT12/USDT — search, verify, pay.",
+      "version": "1.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-agentic-terminal-directory",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "9acfcbe52d3332469060c3c3a981940d7406844e4cbfe9435c24eae259a3f199"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "observer-protocol",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://agenticterminal.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-agenttrust-identity-trust-for-a2a-agents",
+      "name": "AgentTrust — Identity & Trust for A2A Agents",
+      "description": "Identity, trust, and A2A orchestration for autonomous AI agents. Official A2A partner.",
+      "version": "1.1.1",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-agenttrust-identity-trust-for-a2a-agents",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "d97e5c901754e3b37efd9d79231f303354a37b2e758f3e3882cef53154363ed7"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "agenttrust",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://agenttrust.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-ai-adeu-adeu",
+      "name": "ai.adeu/adeu",
+      "description": "Automated DOCX Redlining Engine",
+      "version": "1.7.1",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-ai-adeu-adeu",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "107414e4cfdfbdab4ceff6332251a8d8eabdd16d65cec94580fd41e9b23ae459"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "dealfluence",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://github.com/dealfluence/adeu",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-ai-autonomad-computeback",
+      "name": "ai.autonomad/computeback",
+      "description": "Agent Rewards Marketplace: earn $NOMD on B2B work, spend on agent capabilities.",
+      "version": "1.1.3",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-ai-autonomad-computeback",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "6a32d5fbc1a47f4ba0bf67ce7eb8e3ee3230c5de860b9bebf2fb5e4030b70220"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "Autonomad1",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://www.computeback.com",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-anki-mcp-server",
+      "name": "Anki MCP Server",
+      "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
+      "version": "0.22.5",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-anki-mcp-server",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "46997e68008507f5e89ac5eb2fecc6fe93c8aae27a1f2a7e96e5932891c3d562"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "ankimcp",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://ankimcp.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-anomalyarmor",
+      "name": "AnomalyArmor",
+      "description": "Data observability tools for engineering teams: alerts, freshness, schema drift, lineage, quality.",
+      "version": "0.6.1",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-anomalyarmor",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "1b68ed8c76c65024c80cfb45ded4f18d9fa54bc8a664f8d9ab688d3eacd57d99"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "anomalyarmor",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://www.anomalyarmor.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-auralogs",
+      "name": "Auralogs",
+      "description": "Read-only access to Auralogs production logs: search logs, inspect errors, review AI analyses.",
+      "version": "0.1.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-auralogs",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "463d1e803c987fc9117f5376e200af73e492d28e10a8490d6579dd1432b1e2b3"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "auralogs-ai",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://docs.auralogs.ai/read-api/overview/",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-autorfp-ai",
+      "name": "AutoRFP.ai",
+      "description": "Search AutoRFP.ai projects, requirements, content library, and tags for Q&A and analytics.",
+      "version": "1.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-autorfp-ai",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "b06b0e9d8543c18674de8b287d420d6d701310ea8840b55e2990c42f3394e57c"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "AutoRFP",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://autorfp.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-bareun-korean-nlp-spell-grammar-checking",
+      "name": "Bareun — Korean NLP & Spell/Grammar Checking",
+      "description": "Korean NLP MCP server: morphological analysis, tokenization, spell & grammar checking (Bareun)",
+      "version": "3.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-bareun-korean-nlp-spell-grammar-checking",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "74cb5044b26cff587e7818ea9fa87f41bd83bc3067cdf7e4c616c730394a39ec"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "gih2yun",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://bareun.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-betterpost",
+      "name": "BetterPost",
+      "description": "Finds timely sources across news, social, and the web and writes posts worth publishing.",
+      "version": "2.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-betterpost",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "49df340674aec9a12d7be01e05e9c7006b6854bf709055b6355e30c144da5051"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "betterpost",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://betterpost.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-biel-ai",
+      "name": "Biel.ai",
+      "description": "Query your product docs from AI tools. Source-cited answers from your indexed documentation.",
+      "version": "2.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-biel-ai",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "b2bfb190efd3c782f61671e5302f5ebabf8ba86ff7a75f17d09dbc5a798854cb"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "TechDocsStudio",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://biel.ai",
+        "ref": "main",
+        "sha": "live"
       }
     },
     {

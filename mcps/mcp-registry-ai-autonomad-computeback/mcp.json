@@ -1,0 +1,14 @@
+{
+  "transport": "stdio",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@autonomad1/computeback-mcp@1.1.3"
+  ],
+  "env": {
+    "COMPUTEBACK_API_URL": "${COMPUTEBACK_API_URL}",
+    "BASE_RPC_URL": "${BASE_RPC_URL}",
+    "AGENT_DID": "${AGENT_DID}",
+    "AGENT_HMAC_SECRET": "${AGENT_HMAC_SECRET}"
+  }
+}

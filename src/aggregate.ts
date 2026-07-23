@@ -16,6 +16,7 @@ import { resolveLicense } from './license.js'
 import { discoverSkillCandidates } from './adapters/skillmd.js'
 import { discoverAgentCandidates } from './adapters/agentmd.js'
 import { discoverHookCandidates } from './adapters/hookjson.js'
+import { discoverMcpCandidates } from './adapters/mcpServer.js'
 import { slug, sha256Hex, truncate } from './util.js'
 import type { CatalogIndex, CatalogItem, RawCandidate, SourceConfig } from './types.js'
 
@@ -35,6 +36,7 @@ const SOURCE_ORDER = [
   '0xfurai-subagents',
   'karanb192-hooks',
   'dwarvesf-guardrails',
+  'mcp-registry',
 ]
 
 interface NeedsReviewEntry { source: string; name: string; reason: string }
@@ -69,6 +71,10 @@ async function discoverForSource(source: SourceConfig, sha: string): Promise<Raw
       return discoverAgentCandidates(source, sha)
     case 'hookjson':
       return discoverHookCandidates(source, sha)
+    case 'mcpServer':
+      // sem UM repo upstream (agrega servidores de repos diferentes) — sha não se aplica,
+      // a licença é resolvida por item dentro do próprio adapter (ver mcpServer.ts).
+      return discoverMcpCandidates(source)
   }
 }
 
@@ -102,9 +108,18 @@ async function main(): Promise<void> {
     let repoSpdx: string | null = null
     let candidates: RawCandidate[]
     try {
-      sha = await resolveRef(source.repo, source.ref)
-      repoSpdx = source.mixedLicense ? null : await getRepoLicenseSpdx(source.repo)
-      candidates = await discoverForSource(source, sha)
+      if (source.adapter === 'mcpServer') {
+        // agrega servidores de repos diferentes — não há um `source.repo` upstream único
+        // pra resolver ref/licença aqui; a licença é resolvida POR ITEM dentro do adapter
+        // (ver mcpServer.ts), então repoSpdx fica null e o gate central (resolveLicense)
+        // usa candidate.licenseDeclared normalmente.
+        sha = 'live'
+        candidates = await discoverForSource(source, sha)
+      } else {
+        sha = await resolveRef(source.repo, source.ref)
+        repoSpdx = source.mixedLicense ? null : await getRepoLicenseSpdx(source.repo)
+        candidates = await discoverForSource(source, sha)
+      }
     } catch (e) {
       const msg = e instanceof GitHubError ? `${e.message}` : String(e)
       console.warn(`[aggregate] fonte "${source.id}" falhou (${msg}) — mantendo itens anteriores desta fonte, se houver.`)

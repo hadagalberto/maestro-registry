@@ -1,0 +1,4 @@
+{
+  "transport": "http",
+  "url": "https://mcp.biel.ai/v2/{project_slug}/mcp"
+}

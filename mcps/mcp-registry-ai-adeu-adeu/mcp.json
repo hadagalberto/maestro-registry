@@ -1,0 +1,8 @@
+{
+  "transport": "stdio",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@adeu/mcp-server@1.7.1"
+  ]
+}

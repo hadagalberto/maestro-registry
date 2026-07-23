@@ -45,6 +45,17 @@
 | dwarvesf-guardrails-lite-destructive-delete | lite Destructive delete | hook | dwarvesf | MIT | dwarvesf-guardrails | 65a41de | https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json |
 | dwarvesf-guardrails-lite-direct-push-to-protected-branch | lite Direct push to protected branch | hook | dwarvesf | MIT | dwarvesf-guardrails | 65a41de | https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json |
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | 65a41de | https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json |
+| mcp-registry-agentic-terminal-directory | Agentic Terminal Directory | mcp | observer-protocol | MIT | mcp-registry | live | https://agenticterminal.ai |
+| mcp-registry-agenttrust-identity-trust-for-a2a-agents | AgentTrust — Identity & Trust for A2A Agents | mcp | agenttrust | MIT | mcp-registry | live | https://agenttrust.ai |
+| mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
+| mcp-registry-ai-autonomad-computeback | ai.autonomad/computeback | mcp | Autonomad1 | MIT | mcp-registry | live | https://www.computeback.com |
+| mcp-registry-anki-mcp-server | Anki MCP Server | mcp | ankimcp | MIT | mcp-registry | live | https://ankimcp.ai |
+| mcp-registry-anomalyarmor | AnomalyArmor | mcp | anomalyarmor | MIT | mcp-registry | live | https://www.anomalyarmor.ai |
+| mcp-registry-auralogs | Auralogs | mcp | auralogs-ai | MIT | mcp-registry | live | https://docs.auralogs.ai/read-api/overview/ |
+| mcp-registry-autorfp-ai | AutoRFP.ai | mcp | AutoRFP | MIT | mcp-registry | live | https://autorfp.ai |
+| mcp-registry-bareun-korean-nlp-spell-grammar-checking | Bareun — Korean NLP & Spell/Grammar Checking | mcp | gih2yun | MIT | mcp-registry | live | https://bareun.ai |
+| mcp-registry-betterpost | BetterPost | mcp | betterpost | MIT | mcp-registry | live | https://betterpost.ai |
+| mcp-registry-biel-ai | Biel.ai | mcp | TechDocsStudio | MIT | mcp-registry | live | https://biel.ai |
 | anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | 1f630fd | https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/algorithmic-art |
 | anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | 1f630fd | https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/brand-guidelines |
 | anthropics-skills-canvas-design | canvas-design | skill | anthropics | Apache-2.0 | anthropics-skills | 1f630fd | https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/canvas-design |

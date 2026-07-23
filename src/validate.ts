@@ -15,7 +15,7 @@ const ROOT = join(__dirname, '..')
 const INDEX_PATH = join(ROOT, 'index.json')
 
 const ID_RE = /^[a-z0-9][a-z0-9-]*$/
-const VALID_TYPES = new Set(['skill', 'agent', 'hook'])
+const VALID_TYPES = new Set(['skill', 'agent', 'hook', 'mcp'])
 const VALID_CLIS = new Set(['claude', 'codex', 'gemini'])
 
 function isSafeRel(rel: string): boolean {
@@ -98,7 +98,7 @@ function validateItem(item: CatalogItem, allIds: Map<string, number>): Problem[]
 function findOrphanDirs(index: CatalogIndex): string[] {
   const known = new Set(index.items.map((it) => it.dir))
   const orphans: string[] = []
-  for (const typeDir of ['skills', 'agents', 'hooks']) {
+  for (const typeDir of ['skills', 'agents', 'hooks', 'mcps']) {
     const abs = join(ROOT, typeDir)
     if (!existsSync(abs)) continue
     for (const entry of readdirSync(abs, { withFileTypes: true })) {

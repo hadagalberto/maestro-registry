@@ -1,0 +1,4 @@
+{
+  "transport": "http",
+  "url": "https://api.bareun.ai/mcp"
+}

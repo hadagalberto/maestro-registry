@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-07-23T03:45:01.178Z",
+  "updatedAt": "2026-07-23T04:30:14.386Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 14,
     "voltagent-subagents": 15,
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
-    "dwarvesf-guardrails": 8
+    "dwarvesf-guardrails": 8,
+    "mcp-registry": 11
   },
-  "totalItems": 63,
+  "totalItems": 74,
   "needsReview": [
     {
       "source": "anthropics-skills",
@@ -114,6 +115,11 @@
       "source": "dwarvesf-guardrails",
       "name": "full PreToolUse (Bash) #6",
       "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "mcp-registry",
+      "name": "ac.tandem/docs-mcp",
+      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     }
   ],
   "duplicates": []
