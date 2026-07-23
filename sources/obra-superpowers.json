@@ -1,0 +1,15 @@
+{
+  "id": "obra-superpowers",
+  "adapter": "skillmd",
+  "repo": "obra/superpowers",
+  "ref": "main",
+  "type": "skill",
+  "paths": ["skills"],
+  "clis": ["claude", "codex", "gemini"],
+  "license": { "expected": "MIT", "mode": "repo" },
+  "mixedLicense": false,
+  "materialize": true,
+  "limit": 15,
+  "tags": ["community", "workflow"],
+  "_comment": "obra/superpowers — MIT confirmado via GitHub API (license.spdx_id). Formato skills/<nome>/SKILL.md idêntico ao spec oficial, 14 skills de workflow (TDD, git worktrees, debugging sistemático). Ver skills.md §3.1."
+}

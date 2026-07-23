@@ -1,0 +1,16 @@
+{
+  "id": "karanb192-hooks",
+  "adapter": "hookjson",
+  "repo": "karanb192/claude-code-hooks",
+  "ref": "main",
+  "type": "hook",
+  "mode": "plugins",
+  "paths": ["plugins"],
+  "clis": ["claude"],
+  "license": { "expected": "MIT", "mode": "repo" },
+  "mixedLicense": false,
+  "materialize": true,
+  "limit": 15,
+  "tags": ["community", "plugin"],
+  "_comment": "karanb192/claude-code-hooks — MIT, plugins/<nome>/.claude-plugin/plugin.json + plugins/<nome>/hooks/hooks.json. AVISO: os comandos observados (bounty-board, context-hogs, etc.) chamam `node \"${CLAUDE_PLUGIN_ROOT}/<script>.js\"` — só resolvem quando instalados como plugin nativo (`/plugin marketplace add`); o Maestro instala hook via merge simples no settings.json (installByType.ts:installHookItem só lê o .json, não materializa scripts de plugin) — esses itens caem em report.needsReview (adapters/hookjson.ts:NON_RESOLVABLE_COMMAND), não no índice, até o Maestro suportar instalação de plugin completo. Mantido como fonte para reavaliar quando isso mudar. Ver hooks.md §2.4."
+}

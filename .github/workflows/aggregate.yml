@@ -1,0 +1,49 @@
+name: aggregate
+
+on:
+  schedule:
+    - cron: '17 4 * * *' # diário — horário deslocado pra fugir do rush do topo da hora
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install
+
+      # GITHUB_TOKEN do Actions dá 5000 req/h contra a API do GitHub (vs 60/h anônimo) —
+      # design REGISTRY-INTEGRATION.md §3.4 aggregate.yml. Secret automático, sem setup.
+      - name: Aggregate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run aggregate
+
+      - name: Validate
+        run: npm run validate
+
+      # só commita se validate passou (o job já teria falhado antes se não) — índice antigo
+      # nunca é sobrescrito por um índice quebrado (design §3.4).
+      - name: Commit se houver diff
+        run: |
+          git config user.name 'maestro-registry-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add index.json ATTRIBUTION.md report.json skills agents hooks
+          if git diff --cached --quiet; then
+            echo "sem mudanças — nada a commitar"
+            exit 0
+          fi
+          git commit -m "chore(registry): sync upstream $(date -u +%Y-%m-%d)"
+          git push

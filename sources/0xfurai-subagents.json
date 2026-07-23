@@ -1,0 +1,15 @@
+{
+  "id": "0xfurai-subagents",
+  "adapter": "agentmd",
+  "repo": "0xfurai/claude-code-subagents",
+  "ref": "main",
+  "type": "agent",
+  "paths": ["agents"],
+  "clis": ["claude"],
+  "license": { "expected": "MIT", "mode": "repo" },
+  "mixedLicense": false,
+  "materialize": true,
+  "limit": 15,
+  "tags": ["community", "subagent", "expert"],
+  "_comment": "0xfurai/claude-code-subagents — MIT, 138 arquivos flat em agents/<tech>-expert.md (sem subpastas — ingestão mais simples). Ver agents.md §3."
+}

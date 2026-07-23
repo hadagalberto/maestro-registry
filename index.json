@@ -1,0 +1,1991 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-23T03:45:01.178Z",
+  "items": [
+    {
+      "id": "0xfurai-subagents-actix-expert",
+      "name": "actix-expert",
+      "description": "Expert in Actix for building high-performance web applications with Rust",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-actix-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "bc50a611b9f9390799bce99d6ca797d8171cc80ea906dd420751e1260c2d3864"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/actix-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-android-expert",
+      "name": "android-expert",
+      "description": "Expert in Android development, specializing in modern Android practices, optimizing performance, and ensuring robust application architecture. Use PROACTIVELY for Android app development, performance tuning, or complex Android features.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-android-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "6a9d5a7a5a28c25ee04bea00b173ea8e0efa61770ba0d61b7af485b5711cd12c"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/android-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-angular-expert",
+      "name": "angular-expert",
+      "description": "Write idiomatic Angular code with best practices, performance optimizations, and modern Angular features. Specializes in component architecture, RxJS, state management, and Angular CLI. Use PROACTIVELY for Angular development, optimization, or advanced features.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-angular-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "922a75fb98f31ba47a70693ab483c2b06e1af170055f611cedb9a7c51021468f"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/angular-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-angularjs-expert",
+      "name": "angularjs-expert",
+      "description": "Expert in AngularJS development, focusing on optimizing code structure, improving performance, and ensuring best practices.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-angularjs-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "5d68a198f9fa4781a916b118f9300312f7212b0c8903f944704b9ae7dd0ea546"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/angularjs-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-ansible-expert",
+      "name": "ansible-expert",
+      "description": "Master Ansible automation for configuration management, application deployment, and task orchestration. Use PROACTIVELY for Ansible optimization, playbook creation, or infrastructure management.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-ansible-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "dbe05f6c4fa67195bdffa8ec8b1a64cf569b30ddfadd21153e23952582f03768"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/ansible-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-aspnet-core-expert",
+      "name": "aspnet-core-expert",
+      "description": "Expert in ASP.NET Core web application development, optimization, and best practices.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-aspnet-core-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "d2367d6144730efa996c64d8fe5972f810a85a8d41d4d415d99e9e2aa22fccd0"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/aspnet-core-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-astro-expert",
+      "name": "astro-expert",
+      "description": "Expert in Astro with deep understanding of component architecture, content collections, and static site optimization. Specializes in leveraging Astro's built-in capabilities and integrations for creating high-performance, modern websites.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-astro-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "2dca9595f2a8635a224862027352f5f8a8bd0b2070f20321c2b1ad67fa709398"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/astro-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-auth0-expert",
+      "name": "auth0-expert",
+      "description": "Expert in Auth0 implementation, configuration, and best practices",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-auth0-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "f7b69444357aa9f569ee6930c2f0a54a1388c321bc2dc53d4ece7fd49409f29d"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/auth0-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-ava-expert",
+      "name": "ava-expert",
+      "description": "Expert in Ava for running tests and managing test suites efficiently.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-ava-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "99e883fa43187eb8d874d0567861c60396a8b529885745866de721c2cdac068c"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/ava-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-bash-expert",
+      "name": "bash-expert",
+      "description": "Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities. Expert in safe, portable, and testable shell scripts.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-bash-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "7bda97dfb8ec16caf20bbfed58b217d40ca8deffeb3dc6d7a68304017f6c487b"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/bash-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-braintree-expert",
+      "name": "braintree-expert",
+      "description": "Braintree specialist focusing on payment gateways, integrations, and optimization.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-braintree-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "477d6c27d068f33e9b4161527fef5de1567e528623ab0f37f2d79035d47636d6"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/braintree-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-bullmq-expert",
+      "name": "bullmq-expert",
+      "description": "Expert in BullMQ task queue library for Node.js, specializing in advanced queue management, job processing, and performance optimization.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-bullmq-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "34621bd415cb329ec219467efc76fd53ae85a4bc3d72fb96efd2bbe25730f748"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/bullmq-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-bun-expert",
+      "name": "bun-expert",
+      "description": "Expertise in Bun, focusing on high-performance JavaScript runtime, efficient module execution, and optimized bundling.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-bun-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "6dfac8d129ac8a9b1367db80f7b3a3e4ef7b114591ac7830847772259eac88e4"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/bun-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-c-expert",
+      "name": "c-expert",
+      "description": "C language expert specializing in efficient, reliable systems-level programming.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-c-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "9a8def3aafb6babe85d952cb654939408ab85a3cec2bc02b2f5d7416e7097d46"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/c-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "0xfurai-subagents-cassandra-expert",
+      "name": "cassandra-expert",
+      "description": "Master in Cassandra database design, optimization, and management. Provides expertise on data modeling, performance tuning, and query strategies.",
+      "version": "9236d10",
+      "tags": [
+        "community",
+        "subagent",
+        "expert"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/0xfurai-subagents-cassandra-expert",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "dd17c10582a1a66274bd5fda94c0d3f5de9553c42ac325a4f5e58b1c302defd5"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "0xfurai",
+      "source": {
+        "registry": "0xfurai-subagents",
+        "repo": "0xfurai/claude-code-subagents",
+        "url": "https://github.com/0xfurai/claude-code-subagents/blob/9236d10702cdbba37eaa34515f1e1dbff8452506/agents/cassandra-expert.md",
+        "ref": "main",
+        "sha": "9236d10"
+      }
+    },
+    {
+      "id": "voltagent-subagents-angular-architect",
+      "name": "angular-architect",
+      "description": "Use when architecting enterprise Angular 15+ applications with complex state management, optimizing RxJS patterns, designing micro-frontend systems, or solving performance and scalability challenges in large codebases.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-angular-architect",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "70455b225603fdfc4f86b4ff862ebdd7551c4fbb4510aa547316e17c0a8f59e2"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/02-language-specialists/angular-architect.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-api-designer",
+      "name": "api-designer",
+      "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience. Invoke when you need REST/GraphQL endpoint design, OpenAPI documentation, authentication patterns, or API versioning strategies.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-api-designer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "dc8547318598b6abecfad8d3c5709c9bb21fc38c2e5f5b4f452bb02f668df1be"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/api-designer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-backend-developer",
+      "name": "backend-developer",
+      "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-backend-developer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "f41444c6a10a4d57821a9eda26018bf94d92249c5da383e93ebbee08b6c051c3"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/backend-developer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-cpp-pro",
+      "name": "cpp-pro",
+      "description": "Use this agent when building high-performance C++ systems requiring modern C++20/23 features, template metaprogramming, or zero-overhead abstractions for systems programming, embedded systems, or performance-critical applications.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-cpp-pro",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "44a45b090fb2445cf90afa1774a90bd25e0ff7a8e41e7e1b61bf58faf5e63646"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/02-language-specialists/cpp-pro.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-csharp-developer",
+      "name": "csharp-developer",
+      "description": "Use this agent when building ASP.NET Core web APIs, cloud-native .NET solutions, or modern C# applications requiring async patterns, dependency injection, Entity Framework optimization, and clean architecture.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-csharp-developer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "9218f747ffe2c8dd1cf5397d61f04f5190c8ec7cbc53d8813460a5177af2ea44"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/02-language-specialists/csharp-developer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-design-bridge",
+      "name": "design-bridge",
+      "description": "Use this agent when you need to translate a DESIGN.md from the VoltAgent/awesome-design-md repository into polished Claude Code instructions for building user interfaces that faithfully match the chosen brand. Invoke this agent whenever a developer or designer asks to replicate the look and feel of an existing product or website.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-design-bridge",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "09e4bb9fb784f27ab896d563e6048c1e5190d3877496a8d2bd5f566a659b179b"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/design-bridge.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-django-developer",
+      "name": "django-developer",
+      "description": "Use when building Django 4+ web applications, REST APIs, or modernizing existing Django projects with async views and enterprise patterns.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-django-developer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "cf287d2fa4308f8088f8d17bd131c1b161d2fe2915e687df51d6bfbfefa1f1bb"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/02-language-specialists/django-developer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-electron-pro",
+      "name": "electron-pro",
+      "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization. Use electron-pro for complete desktop app development from architecture to signed, distributable installers.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-electron-pro",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "64c460c0f4ff108718c46a0e109ddfff48b68748c454efe7234e98199bb99ecb"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/electron-pro.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-frontend-developer",
+      "name": "frontend-developer",
+      "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-frontend-developer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "f0d9e9c05f3ed75afa6d72dce6803d59eb0410c8af01e74ef1c9931dc21ec122"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/frontend-developer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-fullstack-developer",
+      "name": "fullstack-developer",
+      "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-fullstack-developer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "cd1f0df98b1ccc0e78540d777505736a5f0af619609476c19115abd65b3463f8"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/fullstack-developer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-graphql-architect",
+      "name": "graphql-architect",
+      "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-graphql-architect",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "a1faa57cd4e509ff6fb3d6545fb298c144b6c49107ceae71e9a28feed76b003f"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/graphql-architect.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-microservices-architect",
+      "name": "microservices-architect",
+      "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-microservices-architect",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "abd12f9568eda05ec9d6ac9edc958b55c2f7f7e17a2e14a2eba99e53efd8db20"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/microservices-architect.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-mobile-developer",
+      "name": "mobile-developer",
+      "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture. Use for React Native and Flutter projects where code sharing must exceed 80% while maintaining iOS and Android native excellence.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-mobile-developer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "28b4192bb5f783a976952addaf0ac818f93df88b75d497bcd2597d7065c754ff"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/mobile-developer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-ui-designer",
+      "name": "ui-designer",
+      "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and accessibility considerations.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-ui-designer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "60b69fc6d3da170b5570b29332d6000ee8f26f4b1df4e9bc680a44f57a37478c"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/ui-designer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "voltagent-subagents-websocket-engineer",
+      "name": "websocket-engineer",
+      "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+      "version": "947b44c",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-websocket-engineer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "c0d4ac6f3f87b70a717250d1d462dfa3f313bb8eb24a27ab34075b862fac964b"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/947b44ca0c58d606b084e9cb1a2389335b49278b/categories/01-core-development/websocket-engineer.md",
+        "ref": "main",
+        "sha": "947b44c"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-full-cannot-escalate-permissions-from-within-a-session",
+      "name": "full Cannot escalate permissions from within a session",
+      "description": "Cannot escalate permissions from within a session.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-full-cannot-escalate-permissions-from-within-a-session",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "09b706e1cb067a7e28ce36604711e65c30027a8ece5e10806b7becf851410459"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/full/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-full-destructive-delete-detected",
+      "name": "full Destructive delete detected",
+      "description": "Destructive delete detected. Use trash-cli or move to a temp directory instead.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-full-destructive-delete-detected",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "d01d443ef05d84b4aa6c1ce2c041b721474a9e6ec7f83079bb405a7ab9ca681f"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/full/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-full-direct-push-to-main-master-production",
+      "name": "full Direct push to main/master/production",
+      "description": "Direct push to main/master/production. Use a feature branch and PR.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-full-direct-push-to-main-master-production",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "de65680d2b3ad53f339722a91bf29e34c3f22f22e82cd03a14037a9c045ee7aa"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/full/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-full-pipe-to-shell-detected",
+      "name": "full Pipe-to-shell detected",
+      "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-full-pipe-to-shell-detected",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "dbc8d236eea6f7cb60e56a0bad6a07bb304abda4085cd1631b31d5670778bcdb"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/full/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-full-potential-data-exfiltration-to-external-service",
+      "name": "full Potential data exfiltration to external service",
+      "description": "Potential data exfiltration to external service.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-full-potential-data-exfiltration-to-external-service",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "577024e0324723d2f3dca0fdef1e12241afbfbd3673455a21dd1120a3d4f3691"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/full/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-lite-destructive-delete",
+      "name": "lite Destructive delete",
+      "description": "Destructive delete. Use trash or move to tmp instead.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-lite-destructive-delete",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "c5cb24670e3c76f5bcefde650535366ce3695121b701e00ada752f82762b9e86"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-lite-direct-push-to-protected-branch",
+      "name": "lite Direct push to protected branch",
+      "description": "Direct push to protected branch. Use a feature branch and PR.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-lite-direct-push-to-protected-branch",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "05d4a0cf11b152a82bca73d3ee70f7c785f4e9d7aeffdf8308904635144fae38"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "dwarvesf-guardrails-lite-pipe-to-shell-detected",
+      "name": "lite Pipe-to-shell detected",
+      "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
+      "version": "65a41de",
+      "tags": [
+        "community",
+        "security",
+        "guardrail"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "hooks/dwarvesf-guardrails-lite-pipe-to-shell-detected",
+      "files": [
+        "hook.json"
+      ],
+      "sha256": {
+        "hook.json": "e53ec07361e3cb4227f643eb00bf66cb51c365b6981e267708db4c8b0bab75ad"
+      },
+      "type": "hook",
+      "license": "MIT",
+      "author": "dwarvesf",
+      "source": {
+        "registry": "dwarvesf-guardrails",
+        "repo": "dwarvesf/claude-guardrails",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/65a41debc41d927d16e17ff17d5c4e81915f57ab/lite/settings.json",
+        "ref": "main",
+        "sha": "65a41de"
+      }
+    },
+    {
+      "id": "anthropics-skills-algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-algorithmic-art",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "3bc4092c09804853186524c826bc0621b940bb6122c05b84496dff95388e6eef",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/algorithmic-art",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-brand-guidelines",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "1120b3769e2985cefb3d25be981b1f914abeba57ae079b83c20c666c164fa9fe",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/brand-guidelines",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-canvas-design",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/canvas-design",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-claude-api",
+      "name": "claude-api",
+      "description": "|-",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-claude-api",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "0960727edd991a4674df9a73821955286ffcd1af3d53a89198b4c7288ac831bb",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/claude-api",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-frontend-design",
+      "name": "frontend-design",
+      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-frontend-design",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "1608ea77fbb6fc30d13a97d12cfa8ebf31358d40f0dd97beed24829d6b3f45dd",
+        "LICENSE.txt": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/frontend-design",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-internal-comms",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/internal-comms",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-mcp-builder",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "0f4592dcb53cf2b5d6b7febee6b4152018b565551a1c29e3c612f57b218ab295",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/mcp-builder",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-skill-creator",
+      "name": "skill-creator",
+      "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-skill-creator",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/skill-creator",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-slack-gif-creator",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "2efca615ce55a3edd8fc05c779068a8085816617991987e446606403cd3abb22",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/slack-gif-creator",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-theme-factory",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/theme-factory",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "anthropics-skills-web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "version": "1f630fd",
+      "tags": [
+        "anthropic",
+        "example"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/anthropics-skills-web-artifacts-builder",
+      "files": [
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "sha256": {
+        "SKILL.md": "81c5002c6643b0de7b8710b00e7a9038daa6fb9b68d59870ee6adb12da8d10f8",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
+      },
+      "type": "skill",
+      "license": "Apache-2.0",
+      "author": "anthropics",
+      "source": {
+        "registry": "anthropics-skills",
+        "repo": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills/tree/1f630fdf9259cec4a14913127dfd7c3b69ef72eb/skills/web-artifacts-builder",
+        "ref": "main",
+        "sha": "1f630fd"
+      }
+    },
+    {
+      "id": "obra-superpowers-brainstorming",
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-brainstorming",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "e14914605f640e0841758e45d0ab2a53243b59b921f929e47921c99668f2e61d"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/brainstorming",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-dispatching-parallel-agents",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "f0df13f584049059cc5619f90061405b89dcc6e28ab3f2a8517d27d99c7a46a6"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/dispatching-parallel-agents",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-executing-plans",
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-executing-plans",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "bbd8d28bb655a52817cc129ce49f9e46fa7c6303f72ed5de95bfe914ef8e0ce8"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/executing-plans",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-finishing-a-development-branch",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "e6d4a812de900d33c6eacfb40747f99427f25c304a7b7099120f9373b115a47f"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/finishing-a-development-branch",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-receiving-code-review",
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-receiving-code-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "647036bbdab7bf2317e14e079595e984c9030f64295e2b4c0fb57dbeb48f25dd"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/receiving-code-review",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-requesting-code-review",
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-requesting-code-review",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "1017ccdd5bc61fab67c654cf118cbdb520464b313073a0a6b9a6b9aa647a3ad6"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/requesting-code-review",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-subagent-driven-development",
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-subagent-driven-development",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "41ab239a6ad1c487cd839fdac972a8c9cf0f5e90efa59a63f963767864f0df4c"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/subagent-driven-development",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-systematic-debugging",
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-systematic-debugging",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "3b20719eca4f0461cb51a195221320d775dcf03b6859271066a03a5132a6ce7a"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/systematic-debugging",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-test-driven-development",
+      "name": "test-driven-development",
+      "description": "Use when implementing any feature or bugfix, before writing implementation code",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-test-driven-development",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "b5b4717b8b761cce15a6cfe9022e33fd959e0894c0c39d72c9cb49c23486c10e"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/test-driven-development",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-using-git-worktrees",
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-using-git-worktrees",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "e2c3ec142e52868a51af246c620cd76ab648dcf27d6900d47e6ffd07159a9794"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/using-git-worktrees",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-using-superpowers",
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-using-superpowers",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "55379fe7c1c473a02c61961c822996bff30e1320d6921d9062509bc508482c05"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/using-superpowers",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-verification-before-completion",
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-verification-before-completion",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "ea52d15aabaf72bc6b558efe2c126f161b53961090ddcd712000273bfe8c7b6c"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/verification-before-completion",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-writing-plans",
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-writing-plans",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "272e1af349f5062c28dc282b3e21b220d58d683a7314a10c455b7432ec91d845"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/writing-plans",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    },
+    {
+      "id": "obra-superpowers-writing-skills",
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "version": "d884ae0",
+      "tags": [
+        "community",
+        "workflow"
+      ],
+      "clis": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "dir": "skills/obra-superpowers-writing-skills",
+      "files": [
+        "SKILL.md"
+      ],
+      "sha256": {
+        "SKILL.md": "6b8d08fe863318be8480ae8428e169640309fa9208df84bb0510012764454146"
+      },
+      "type": "skill",
+      "license": "MIT",
+      "author": "obra",
+      "source": {
+        "registry": "obra-superpowers",
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers/tree/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/writing-skills",
+        "ref": "main",
+        "sha": "d884ae0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "event": "PreToolUse",
+  "matcher": "Bash",
+  "hooks": [
+    {
+      "type": "command",
+      "command": "bash -c 'CMD=$(cat | jq -r \".tool_input.command // empty\"); if echo \"$CMD\" | grep -qEi \"rm\\s+-(r|f|rf|fr)\\s+(/|~|\\$HOME)\"; then echo \"BLOCKED: Destructive delete. Use trash or move to tmp instead.\" >&2; exit 2; fi'"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dwarvesf-guardrails",
+  "adapter": "hookjson",
+  "repo": "dwarvesf/claude-guardrails",
+  "ref": "main",
+  "type": "hook",
+  "mode": "files",
+  "files": ["lite/settings.json", "full/settings.json"],
+  "clis": ["claude"],
+  "license": { "expected": "MIT", "mode": "repo" },
+  "mixedLicense": false,
+  "materialize": true,
+  "limit": 15,
+  "tags": ["community", "security", "guardrail"],
+  "_comment": "dwarvesf/claude-guardrails — MIT. lite/settings.json e full/settings.json são snippets PARCIAIS de settings.json (permissions.deny + hooks.PreToolUse) pensados para merge via `npx claude-guardrails install`. A maioria dos grupos PreToolUse ali é um `bash -c '...'` AUTOCONTIDO (sem script externo) — esses passam o gate de 'instalável via merge simples' e entram no índice; o grupo que chama `~/.claude/hooks/scan-commit/scan-commit.sh` cai em needsReview pelo mesmo motivo do karanb192 (script externo não materializável pelo installHookItem do Maestro). Ver hooks.md §2.6."
+}

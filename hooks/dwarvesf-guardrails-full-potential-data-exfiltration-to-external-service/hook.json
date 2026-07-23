@@ -1,0 +1,10 @@
+{
+  "event": "PreToolUse",
+  "matcher": "Bash",
+  "hooks": [
+    {
+      "type": "command",
+      "command": "bash -c 'CMD=$(cat | jq -r \".tool_input.command // empty\"); if echo \"$CMD\" | grep -qEi \"(curl|wget|nc|ncat).*\\b(ngrok|burp|requestbin|pipedream|webhook\\.site|hookbin|canarytokens)\\b\"; then echo \"BLOCKED: Potential data exfiltration to external service.\" >&2; exit 2; fi'"
+    }
+  ]
+}

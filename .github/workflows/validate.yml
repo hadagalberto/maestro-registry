@@ -1,0 +1,25 @@
+name: validate
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install
+
+      # SÓ valida — nunca agrega/commita num PR (design §3.4). Garante que qualquer edição
+      # manual em sources/*.json (ou, por engano, em index.json/skills//agents//hooks/)
+      # continua íntegra antes do merge.
+      - run: npm run validate

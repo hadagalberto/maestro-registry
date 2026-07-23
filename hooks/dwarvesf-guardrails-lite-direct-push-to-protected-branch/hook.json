@@ -1,0 +1,10 @@
+{
+  "event": "PreToolUse",
+  "matcher": "Bash",
+  "hooks": [
+    {
+      "type": "command",
+      "command": "bash -c 'CMD=$(cat | jq -r \".tool_input.command // empty\"); if echo \"$CMD\" | grep -qEi \"(^|[&|;(])[[:space:]]*git[[:space:]]+push[[:space:]]+.*\\b(main|master|production)([[:space:];|&)]|$)\"; then echo \"BLOCKED: Direct push to protected branch. Use a feature branch and PR.\" >&2; exit 2; fi'"
+    }
+  ]
+}

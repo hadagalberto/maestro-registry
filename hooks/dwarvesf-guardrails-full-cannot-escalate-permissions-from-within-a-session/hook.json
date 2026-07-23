@@ -1,0 +1,10 @@
+{
+  "event": "PreToolUse",
+  "matcher": "Bash",
+  "hooks": [
+    {
+      "type": "command",
+      "command": "bash -c 'CMD=$(cat | jq -r \".tool_input.command // empty\"); if echo \"$CMD\" | grep -qEi \"--dangerously-skip-permissions|--bypass-permissions\"; then echo \"BLOCKED: Cannot escalate permissions from within a session.\" >&2; exit 2; fi'"
+    }
+  ]
+}

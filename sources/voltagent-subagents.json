@@ -1,0 +1,15 @@
+{
+  "id": "voltagent-subagents",
+  "adapter": "agentmd",
+  "repo": "VoltAgent/awesome-claude-code-subagents",
+  "ref": "main",
+  "type": "agent",
+  "paths": ["categories"],
+  "clis": ["claude"],
+  "license": { "expected": "MIT", "mode": "repo" },
+  "mixedLicense": false,
+  "materialize": true,
+  "limit": 15,
+  "tags": ["community", "subagent"],
+  "_comment": "VoltAgent/awesome-claude-code-subagents — MIT, 154+ subagentes em categories/<NN-categoria>/<nome>.md, frontmatter padrão name/description/tools/model. CONTRIBUTING.md rejeita PR de vendor-promo — bom sinal de curadoria. Ver agents.md §2."
+}

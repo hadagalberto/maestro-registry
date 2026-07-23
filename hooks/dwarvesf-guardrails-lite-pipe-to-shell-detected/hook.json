@@ -1,0 +1,10 @@
+{
+  "event": "PreToolUse",
+  "matcher": "Bash",
+  "hooks": [
+    {
+      "type": "command",
+      "command": "bash -c 'CMD=$(cat | jq -r \".tool_input.command // empty\"); if echo \"$CMD\" | grep -qEi \"curl\\s.*\\|\\s*(bash|sh|zsh)|wget\\s.*\\|\\s*(bash|sh|zsh)\"; then echo \"BLOCKED: Pipe-to-shell detected. Download first, inspect, then execute.\" >&2; exit 2; fi'"
+    }
+  ]
+}

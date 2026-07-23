@@ -1,0 +1,16 @@
+{
+  "name": "maestro-registry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Backend do marketplace do Maestro — agrega skills/agents/hooks de fontes GitHub permissivas em um index.json consumido pelo app.",
+  "scripts": {
+    "aggregate": "tsx src/aggregate.ts",
+    "validate": "tsx src/validate.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "@types/node": "^22.10.5"
+  }
+}

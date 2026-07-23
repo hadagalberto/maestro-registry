@@ -1,0 +1,15 @@
+{
+  "id": "anthropics-skills",
+  "adapter": "skillmd",
+  "repo": "anthropics/skills",
+  "ref": "main",
+  "type": "skill",
+  "paths": ["skills"],
+  "clis": ["claude", "codex", "gemini"],
+  "license": { "mode": "per-item" },
+  "mixedLicense": true,
+  "materialize": true,
+  "limit": 15,
+  "tags": ["anthropic", "example"],
+  "_comment": "anthropics/skills mistura skills Apache-2.0 (ex.: frontend-design, mcp-builder) com skills de documento PROPRIETÁRIOS (docx/pdf/pptx/xlsx — LICENSE.txt diz 'governed by your agreement with Anthropic'). mixedLicense:true força o gate a resolver a licença POR ITEM (frontmatter license: + LICENSE.txt da pasta), NUNCA pela licença do repo (que é null/mista mesmo). Ver .maestro-research/registry-research/skills.md §2.1 e REGISTRY-INTEGRATION.md §10 risco 1."
+}
