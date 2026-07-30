@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T05:27:33.567Z",
+  "updatedAt": "2026-07-30T05:19:25.491Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1166,6 +1166,37 @@
       }
     },
     {
+      "id": "mcp-registry-affiliate-networks-mcp",
+      "name": "Affiliate Networks MCP",
+      "description": "Affiliate network reporting in your AI client. Bring your own keys. Most adapters experimental.",
+      "version": "0.19.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-affiliate-networks-mcp",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "a06ed7ee9abbae03039b5c02b1b5b8bae319ecaeee844a039abcf0e855191000"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "bobberrisford",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://agenticaffiliate.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
       "id": "mcp-registry-agentic-terminal-directory",
       "name": "Agentic Terminal Directory",
       "description": "Verified merchants accepting agentic payments on Lightning/L402/BOLT12/USDT — search, verify, pay.",
@@ -1475,37 +1506,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://betterpost.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-biel-ai",
-      "name": "Biel.ai",
-      "description": "Query your product docs from AI tools. Source-cited answers from your indexed documentation.",
-      "version": "2.0.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-biel-ai",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "b2bfb190efd3c782f61671e5302f5ebabf8ba86ff7a75f17d09dbc5a798854cb"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "TechDocsStudio",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://biel.ai",
         "ref": "main",
         "sha": "live"
       }
