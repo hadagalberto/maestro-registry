@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T05:27:54.717Z",
+  "updatedAt": "2026-08-02T05:27:54.417Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1475,37 +1475,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://bareun.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-betterpost",
-      "name": "BetterPost",
-      "description": "Finds timely sources across news, social, and the web and writes posts worth publishing.",
-      "version": "2.0.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-betterpost",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "49df340674aec9a12d7be01e05e9c7006b6854bf709055b6355e30c144da5051"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "betterpost",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://betterpost.ai",
         "ref": "main",
         "sha": "live"
       }

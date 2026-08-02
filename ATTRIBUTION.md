@@ -55,7 +55,6 @@
 | mcp-registry-auralogs | Auralogs | mcp | auralogs-ai | MIT | mcp-registry | live | https://docs.auralogs.ai/read-api/overview/ |
 | mcp-registry-autorfp-ai | AutoRFP.ai | mcp | AutoRFP | MIT | mcp-registry | live | https://autorfp.ai |
 | mcp-registry-bareun-korean-nlp-spell-grammar-checking | Bareun — Korean NLP & Spell/Grammar Checking | mcp | gih2yun | MIT | mcp-registry | live | https://bareun.ai |
-| mcp-registry-betterpost | BetterPost | mcp | betterpost | MIT | mcp-registry | live | https://betterpost.ai |
 | anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | b29e7cf | https://github.com/anthropics/skills/tree/b29e7cf65e5cb78a5ac33d582270551bc74a14eb/skills/algorithmic-art |
 | anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | b29e7cf | https://github.com/anthropics/skills/tree/b29e7cf65e5cb78a5ac33d582270551bc74a14eb/skills/brand-guidelines |
 | anthropics-skills-canvas-design | canvas-design | skill | anthropics | Apache-2.0 | anthropics-skills | b29e7cf | https://github.com/anthropics/skills/tree/b29e7cf65e5cb78a5ac33d582270551bc74a14eb/skills/canvas-design |
