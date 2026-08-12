@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11T05:30:02.080Z",
+  "updatedAt": "2026-08-12T05:47:35.148Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1324,6 +1324,37 @@
       }
     },
     {
+      "id": "mcp-registry-analytics-legends-sap-analytics-intelligence",
+      "name": "Analytics Legends — SAP Analytics Intelligence",
+      "description": "AI agent for SAP analytics: firms, day rates, contract radar, news, concepts, studies",
+      "version": "1.0.4",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-analytics-legends-sap-analytics-intelligence",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "9de9e043d1e70038e22f59aa708007230dad000692c59460b4962ee34d729031"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "analyticslegends",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://analyticslegends.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
       "id": "mcp-registry-anki-mcp-server",
       "name": "Anki MCP Server",
       "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
@@ -1444,37 +1475,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://autorfp.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-bareun-korean-nlp-spell-grammar-checking",
-      "name": "Bareun — Korean NLP & Spell/Grammar Checking",
-      "description": "Korean NLP MCP server: morphological analysis, tokenization, spell & grammar checking (Bareun)",
-      "version": "3.0.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-bareun-korean-nlp-spell-grammar-checking",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "74cb5044b26cff587e7818ea9fa87f41bd83bc3067cdf7e4c616c730394a39ec"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "gih2yun",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://bareun.ai",
         "ref": "main",
         "sha": "live"
       }

@@ -50,11 +50,11 @@
 | mcp-registry-agenttrust-identity-trust-for-a2a-agents | AgentTrust — Identity & Trust for A2A Agents | mcp | agenttrust | MIT | mcp-registry | live | https://agenttrust.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-ai-autonomad-computeback | ai.autonomad/computeback | mcp | Autonomad1 | MIT | mcp-registry | live | https://www.computeback.com |
+| mcp-registry-analytics-legends-sap-analytics-intelligence | Analytics Legends — SAP Analytics Intelligence | mcp | analyticslegends | MIT | mcp-registry | live | https://analyticslegends.ai |
 | mcp-registry-anki-mcp-server | Anki MCP Server | mcp | ankimcp | MIT | mcp-registry | live | https://ankimcp.ai |
 | mcp-registry-anomalyarmor | AnomalyArmor | mcp | anomalyarmor | MIT | mcp-registry | live | https://www.anomalyarmor.ai |
 | mcp-registry-auralogs | Auralogs | mcp | auralogs-ai | MIT | mcp-registry | live | https://docs.auralogs.ai/read-api/overview/ |
 | mcp-registry-autorfp-ai | AutoRFP.ai | mcp | AutoRFP | MIT | mcp-registry | live | https://autorfp.ai |
-| mcp-registry-bareun-korean-nlp-spell-grammar-checking | Bareun — Korean NLP & Spell/Grammar Checking | mcp | gih2yun | MIT | mcp-registry | live | https://bareun.ai |
 | anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | f17010c | https://github.com/anthropics/skills/tree/f17010c9bb483898c1d9c9f42dde2b3a98889434/skills/algorithmic-art |
 | anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | f17010c | https://github.com/anthropics/skills/tree/f17010c9bb483898c1d9c9f42dde2b3a98889434/skills/brand-guidelines |
 | anthropics-skills-canvas-design | canvas-design | skill | anthropics | Apache-2.0 | anthropics-skills | f17010c | https://github.com/anthropics/skills/tree/f17010c9bb483898c1d9c9f42dde2b3a98889434/skills/canvas-design |
