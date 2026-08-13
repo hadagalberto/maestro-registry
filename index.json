@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T05:47:35.148Z",
+  "updatedAt": "2026-08-13T05:49:33.533Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -471,7 +471,7 @@
       "id": "voltagent-subagents-angular-architect",
       "name": "angular-architect",
       "description": "Use when architecting enterprise Angular 15+ applications with complex state management, optimizing RxJS patterns, designing micro-frontend systems, or solving performance and scalability challenges in large codebases.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -492,16 +492,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/02-language-specialists/angular-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/02-language-specialists/angular-architect.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-api-designer",
       "name": "api-designer",
       "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience. Invoke when you need REST/GraphQL endpoint design, OpenAPI documentation, authentication patterns, or API versioning strategies.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -522,16 +522,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/api-designer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/api-designer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-backend-developer",
       "name": "backend-developer",
       "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -552,16 +552,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/backend-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/backend-developer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-cpp-pro",
       "name": "cpp-pro",
       "description": "Use this agent when building high-performance C++ systems requiring modern C++20/23 features, template metaprogramming, or zero-overhead abstractions for systems programming, embedded systems, or performance-critical applications.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -582,16 +582,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/02-language-specialists/cpp-pro.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/02-language-specialists/cpp-pro.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-csharp-developer",
       "name": "csharp-developer",
       "description": "Use this agent when building ASP.NET Core web APIs, cloud-native .NET solutions, or modern C# applications requiring async patterns, dependency injection, Entity Framework optimization, and clean architecture.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -612,16 +612,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/02-language-specialists/csharp-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/02-language-specialists/csharp-developer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-design-bridge",
       "name": "design-bridge",
       "description": "Use this agent when you need to translate a DESIGN.md from the VoltAgent/awesome-design-md repository into polished Claude Code instructions for building user interfaces that faithfully match the chosen brand. Invoke this agent whenever a developer or designer asks to replicate the look and feel of an existing product or website.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -642,16 +642,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/design-bridge.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/design-bridge.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-django-developer",
       "name": "django-developer",
       "description": "Use when building Django 4+ web applications, REST APIs, or modernizing existing Django projects with async views and enterprise patterns.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -672,16 +672,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/02-language-specialists/django-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/02-language-specialists/django-developer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-electron-pro",
       "name": "electron-pro",
       "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization. Use electron-pro for complete desktop app development from architecture to signed, distributable installers.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -702,16 +702,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/electron-pro.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/electron-pro.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-frontend-developer",
       "name": "frontend-developer",
       "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -732,16 +732,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/frontend-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/frontend-developer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-fullstack-developer",
       "name": "fullstack-developer",
       "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -762,16 +762,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/fullstack-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/fullstack-developer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-graphql-architect",
       "name": "graphql-architect",
       "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -792,16 +792,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/graphql-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/graphql-architect.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-microservices-architect",
       "name": "microservices-architect",
       "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -822,16 +822,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/microservices-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/microservices-architect.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-mobile-developer",
       "name": "mobile-developer",
       "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture. Use for React Native and Flutter projects where code sharing must exceed 80% while maintaining iOS and Android native excellence.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -852,16 +852,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/mobile-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/mobile-developer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-ui-designer",
       "name": "ui-designer",
       "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and accessibility considerations.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -882,16 +882,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/ui-designer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/ui-designer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
       "id": "voltagent-subagents-websocket-engineer",
       "name": "websocket-engineer",
       "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
-      "version": "d483b87",
+      "version": "c9e51ec",
       "tags": [
         "community",
         "subagent"
@@ -912,9 +912,9 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d483b876c5af958c469fb5bd6ecd732ee2ab0ae0/categories/01-core-development/websocket-engineer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/c9e51ec0b3d43f5dcdd0b558a6cd28ba6ada97c1/categories/01-core-development/websocket-engineer.md",
         "ref": "main",
-        "sha": "d483b87"
+        "sha": "c9e51ec"
       }
     },
     {
@@ -1358,7 +1358,7 @@
       "id": "mcp-registry-anki-mcp-server",
       "name": "Anki MCP Server",
       "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
-      "version": "0.22.5",
+      "version": "0.23.0",
       "tags": [
         "mcp",
         "community"
@@ -1373,7 +1373,7 @@
         "mcp.json"
       ],
       "sha256": {
-        "mcp.json": "46997e68008507f5e89ac5eb2fecc6fe93c8aae27a1f2a7e96e5932891c3d562"
+        "mcp.json": "e7604c78ebbd51bb792a1c128ae00f8a6d062332fa517f7dc2a1e279e524638b"
       },
       "type": "mcp",
       "license": "MIT",
@@ -1857,7 +1857,7 @@
       "id": "obra-superpowers-brainstorming",
       "name": "brainstorming",
       "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -1872,7 +1872,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "4a54a4858b99807f3155ed1614b2f116e35ea5c1b788e793f565dd837fd3891f"
+        "SKILL.md": "74edf03ea6d24ef53db48677b93558d14a979bdf052ca3f57ecdca0c66791608"
       },
       "type": "skill",
       "license": "MIT",
@@ -1880,16 +1880,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/brainstorming",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/brainstorming",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-dispatching-parallel-agents",
       "name": "dispatching-parallel-agents",
       "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -1912,16 +1912,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/dispatching-parallel-agents",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/dispatching-parallel-agents",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-executing-plans",
       "name": "executing-plans",
       "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -1944,16 +1944,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/executing-plans",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/executing-plans",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-finishing-a-development-branch",
       "name": "finishing-a-development-branch",
       "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -1968,7 +1968,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "d0ac8360ed9d59121776ef95c84bcb38e9747de0d7ae7e227dca81e437593b9b"
+        "SKILL.md": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65"
       },
       "type": "skill",
       "license": "MIT",
@@ -1976,16 +1976,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/finishing-a-development-branch",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/finishing-a-development-branch",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-receiving-code-review",
       "name": "receiving-code-review",
       "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2008,16 +2008,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/receiving-code-review",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/receiving-code-review",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-requesting-code-review",
       "name": "requesting-code-review",
       "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2040,16 +2040,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/requesting-code-review",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/requesting-code-review",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-subagent-driven-development",
       "name": "subagent-driven-development",
       "description": "Use when executing implementation plans with independent tasks in the current session",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2064,7 +2064,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "349a08ad8b59b19b86c13a7d2f34a1a38719bf88257004a863eefefa8d9f9e40"
+        "SKILL.md": "8dd1b8e698edec3700c6d89517dbe96febd3bacd3f6ea21c1a3569c62ea104b5"
       },
       "type": "skill",
       "license": "MIT",
@@ -2072,16 +2072,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/subagent-driven-development",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/subagent-driven-development",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-systematic-debugging",
       "name": "systematic-debugging",
       "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2104,16 +2104,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/systematic-debugging",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/systematic-debugging",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-test-driven-development",
       "name": "test-driven-development",
       "description": "Use when implementing any feature or bugfix, before writing implementation code",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2136,16 +2136,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/test-driven-development",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/test-driven-development",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-using-git-worktrees",
       "name": "using-git-worktrees",
       "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2168,16 +2168,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/using-git-worktrees",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/using-git-worktrees",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-using-superpowers",
       "name": "using-superpowers",
       "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2192,7 +2192,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "55379fe7c1c473a02c61961c822996bff30e1320d6921d9062509bc508482c05"
+        "SKILL.md": "30f2ab78e20ddc27ee7158ae8d4a2abe161c360981c7cc3548070913142d3dc3"
       },
       "type": "skill",
       "license": "MIT",
@@ -2200,16 +2200,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/using-superpowers",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/using-superpowers",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-verification-before-completion",
       "name": "verification-before-completion",
       "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2232,16 +2232,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/verification-before-completion",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/verification-before-completion",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-writing-plans",
       "name": "writing-plans",
       "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2256,7 +2256,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "72190c88b2b5a67a96b91d66aa72b9161913e10e8769da3f28a226f4cc7b99d0"
+        "SKILL.md": "48508f44bbfd7d24b029fbf3a314f3cd14c9615599059366e922f47b8dc08cf2"
       },
       "type": "skill",
       "license": "MIT",
@@ -2264,16 +2264,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/writing-plans",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/writing-plans",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     },
     {
       "id": "obra-superpowers-writing-skills",
       "name": "writing-skills",
       "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
-      "version": "44c9b2d",
+      "version": "b36e082",
       "tags": [
         "community",
         "workflow"
@@ -2296,9 +2296,9 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/44c9b2d6e889982ac18c27d05a19fefe335194e1/skills/writing-skills",
+        "url": "https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/writing-skills",
         "ref": "main",
-        "sha": "44c9b2d"
+        "sha": "b36e082"
       }
     }
   ]
