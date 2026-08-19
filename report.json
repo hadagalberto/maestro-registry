@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:53:42.539Z",
+  "updatedAt": "2026-08-19T04:53:38.049Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 14,
@@ -33,6 +33,16 @@
     },
     {
       "source": "karanb192-hooks",
+      "name": "auto-stage — PostToolUse",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
+      "name": "block-dangerous-commands — PreToolUse",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
       "name": "bounty-board — SessionStart",
       "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
     },
@@ -44,6 +54,21 @@
     {
       "source": "karanb192-hooks",
       "name": "bounty-board — SessionEnd",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
+      "name": "case-insensitive-guard — PreToolUse",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
+      "name": "config-guard — PreToolUse",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
+      "name": "config-watch — ConfigChange",
       "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
     },
     {
@@ -79,31 +104,6 @@
     {
       "source": "karanb192-hooks",
       "name": "dead-end-registry — PreCompact",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "dead-rules-audit — SessionStart",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "dead-rules-audit — PostToolUse",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "dead-rules-audit — SessionEnd",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "nerf-receipts — PostToolUse",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "nerf-receipts — PostToolUseFailure",
       "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
     },
     {
