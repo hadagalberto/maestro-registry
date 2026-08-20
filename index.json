@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:53:38.049Z",
+  "updatedAt": "2026-08-20T04:54:49.693Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1254,6 +1254,37 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://agenticterminal.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-agentplaybooks",
+      "name": "AgentPlaybooks",
+      "description": "Manage portable AI agent playbooks, Agent Skills, MCP configurations, personas, and memory.",
+      "version": "1.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-agentplaybooks",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "430d2dbd6dceaad3cc2f60e4a26ec2d77538fec48c778e5567bb4f308af94aff"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "matebenyovszky",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://agentplaybooks.ai",
         "ref": "main",
         "sha": "live"
       }

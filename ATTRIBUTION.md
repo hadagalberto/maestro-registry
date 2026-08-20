@@ -48,6 +48,7 @@
 | mcp-registry-affiliate-networks-mcp | Affiliate Networks MCP | mcp | bobberrisford | MIT | mcp-registry | live | https://agenticaffiliate.ai |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
 | mcp-registry-agentic-terminal-directory | Agentic Terminal Directory | mcp | observer-protocol | MIT | mcp-registry | live | https://agenticterminal.ai |
+| mcp-registry-agentplaybooks | AgentPlaybooks | mcp | matebenyovszky | MIT | mcp-registry | live | https://agentplaybooks.ai |
 | mcp-registry-agenttrust-identity-trust-for-a2a-agents | AgentTrust — Identity & Trust for A2A Agents | mcp | agenttrust | MIT | mcp-registry | live | https://agenttrust.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-ai-autonomad-computeback | ai.autonomad/computeback | mcp | Autonomad1 | MIT | mcp-registry | live | https://www.computeback.com |
