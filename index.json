@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T04:57:40.313Z",
+  "updatedAt": "2026-08-27T15:17:06.495Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1420,7 +1420,7 @@
       "id": "mcp-registry-anki-mcp-server",
       "name": "Anki MCP Server",
       "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
-      "version": "0.24.1",
+      "version": "0.24.2",
       "tags": [
         "mcp",
         "community"
@@ -1435,7 +1435,7 @@
         "mcp.json"
       ],
       "sha256": {
-        "mcp.json": "681ba8019db60a2a134c7af9d82d8e7206e4606c359ff70e431b169feab221a0"
+        "mcp.json": "2780366c88afbdabfe64af2e4a50ae84316e5899a960063ac235cf2d6a4287b0"
       },
       "type": "mcp",
       "license": "MIT",
