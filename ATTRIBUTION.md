@@ -51,22 +51,22 @@
 | mcp-registry-agentplaybooks | AgentPlaybooks | mcp | matebenyovszky | MIT | mcp-registry | live | https://agentplaybooks.ai |
 | mcp-registry-agenttrust-identity-trust-for-a2a-agents | AgentTrust — Identity & Trust for A2A Agents | mcp | agenttrust | MIT | mcp-registry | live | https://agenttrust.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
-| mcp-registry-ai-autonomad-computeback | ai.autonomad/computeback | mcp | Autonomad1 | MIT | mcp-registry | live | https://www.computeback.com |
+| mcp-registry-ai-adtest-adtest-mcp | ai.adtest/adtest-mcp | mcp | menaker | MIT | mcp-registry | live | https://adtest.ai/ |
 | mcp-registry-analytics-legends-sap-analytics-intelligence | Analytics Legends — SAP Analytics Intelligence | mcp | analyticslegends | MIT | mcp-registry | live | https://analyticslegends.ai |
 | mcp-registry-anki-mcp-server | Anki MCP Server | mcp | ankimcp | MIT | mcp-registry | live | https://ankimcp.ai |
 | mcp-registry-anomalyarmor | AnomalyArmor | mcp | anomalyarmor | MIT | mcp-registry | live | https://www.anomalyarmor.ai |
 | mcp-registry-auralogs | Auralogs | mcp | auralogs-ai | MIT | mcp-registry | live | https://docs.auralogs.ai/read-api/overview/ |
-| anthropics-skills-academy-guide | academy-guide | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/academy-guide |
-| anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/algorithmic-art |
-| anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/brand-guidelines |
-| anthropics-skills-canvas-design | canvas-design | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/canvas-design |
-| anthropics-skills-claude-api | claude-api | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/claude-api |
-| anthropics-skills-discernment-nudge | discernment-nudge | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/discernment-nudge |
-| anthropics-skills-frontend-design | frontend-design | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/frontend-design |
-| anthropics-skills-internal-comms | internal-comms | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/internal-comms |
-| anthropics-skills-mcp-builder | mcp-builder | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/mcp-builder |
-| anthropics-skills-skill-creator | skill-creator | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/skill-creator |
-| anthropics-skills-slack-gif-creator | slack-gif-creator | skill | anthropics | Apache-2.0 | anthropics-skills | 3b3fad9 | https://github.com/anthropics/skills/tree/3b3fad96af16a10759d930941b4520ba0c40edae/skills/slack-gif-creator |
+| anthropics-skills-academy-guide | academy-guide | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/academy-guide |
+| anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/algorithmic-art |
+| anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/brand-guidelines |
+| anthropics-skills-canvas-design | canvas-design | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/canvas-design |
+| anthropics-skills-claude-api | claude-api | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/claude-api |
+| anthropics-skills-discernment-nudge | discernment-nudge | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/discernment-nudge |
+| anthropics-skills-frontend-design | frontend-design | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/frontend-design |
+| anthropics-skills-internal-comms | internal-comms | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/internal-comms |
+| anthropics-skills-mcp-builder | mcp-builder | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/mcp-builder |
+| anthropics-skills-skill-creator | skill-creator | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/skill-creator |
+| anthropics-skills-slack-gif-creator | slack-gif-creator | skill | anthropics | Apache-2.0 | anthropics-skills | 5304866 | https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/slack-gif-creator |
 | obra-superpowers-brainstorming | brainstorming | skill | obra | MIT | obra-superpowers | b36e082 | https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/brainstorming |
 | obra-superpowers-dispatching-parallel-agents | dispatching-parallel-agents | skill | obra | MIT | obra-superpowers | b36e082 | https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/dispatching-parallel-agents |
 | obra-superpowers-executing-plans | executing-plans | skill | obra | MIT | obra-superpowers | b36e082 | https://github.com/obra/superpowers/tree/b36e0829c6d0140e93cfef2ca599b1b07d4a7797/skills/executing-plans |
