@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T08:57:24.127Z",
+  "updatedAt": "2026-09-04T08:56:59.082Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -471,7 +471,7 @@
       "id": "voltagent-subagents-angular-architect",
       "name": "angular-architect",
       "description": "Use when architecting enterprise Angular 15+ applications with complex state management, optimizing RxJS patterns, designing micro-frontend systems, or solving performance and scalability challenges in large codebases.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -492,16 +492,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/02-language-specialists/angular-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/02-language-specialists/angular-architect.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-api-designer",
       "name": "api-designer",
       "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience. Invoke when you need REST/GraphQL endpoint design, OpenAPI documentation, authentication patterns, or API versioning strategies.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -522,16 +522,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/api-designer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/api-designer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-backend-developer",
       "name": "backend-developer",
       "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -552,16 +552,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/backend-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/backend-developer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-cpp-pro",
       "name": "cpp-pro",
       "description": "Use this agent when building high-performance C++ systems requiring modern C++20/23 features, template metaprogramming, or zero-overhead abstractions for systems programming, embedded systems, or performance-critical applications.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -582,16 +582,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/02-language-specialists/cpp-pro.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/02-language-specialists/cpp-pro.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-csharp-developer",
       "name": "csharp-developer",
       "description": "Use this agent when building ASP.NET Core web APIs, cloud-native .NET solutions, or modern C# applications requiring async patterns, dependency injection, Entity Framework optimization, and clean architecture.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -612,16 +612,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/02-language-specialists/csharp-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/02-language-specialists/csharp-developer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-design-bridge",
       "name": "design-bridge",
       "description": "Use this agent when you need to translate a DESIGN.md from the VoltAgent/awesome-design-md repository into polished Claude Code instructions for building user interfaces that faithfully match the chosen brand. Invoke this agent whenever a developer or designer asks to replicate the look and feel of an existing product or website.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -642,16 +642,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/design-bridge.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/design-bridge.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-django-developer",
       "name": "django-developer",
       "description": "Use when building Django 4+ web applications, REST APIs, or modernizing existing Django projects with async views and enterprise patterns.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -672,16 +672,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/02-language-specialists/django-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/02-language-specialists/django-developer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-electron-pro",
       "name": "electron-pro",
       "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization. Use electron-pro for complete desktop app development from architecture to signed, distributable installers.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -702,16 +702,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/electron-pro.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/electron-pro.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-frontend-developer",
       "name": "frontend-developer",
       "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -732,16 +732,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/frontend-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/frontend-developer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-fullstack-developer",
       "name": "fullstack-developer",
       "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -762,16 +762,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/fullstack-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/fullstack-developer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-graphql-architect",
       "name": "graphql-architect",
       "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -792,16 +792,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/graphql-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/graphql-architect.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-microservices-architect",
       "name": "microservices-architect",
       "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -822,16 +822,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/microservices-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/microservices-architect.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-mobile-developer",
       "name": "mobile-developer",
       "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture. Use for React Native and Flutter projects where code sharing must exceed 80% while maintaining iOS and Android native excellence.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -852,16 +852,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/mobile-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/mobile-developer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-ui-designer",
       "name": "ui-designer",
       "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and accessibility considerations.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -882,16 +882,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/ui-designer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/ui-designer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
       "id": "voltagent-subagents-websocket-engineer",
       "name": "websocket-engineer",
       "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
-      "version": "009544a",
+      "version": "beb9a0f",
       "tags": [
         "community",
         "subagent"
@@ -912,9 +912,9 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/009544a05267426b3896c77230177967f99f6360/categories/01-core-development/websocket-engineer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/beb9a0f0d74a222f5e24aeb390e6d7c3005d9e27/categories/01-core-development/websocket-engineer.md",
         "ref": "main",
-        "sha": "009544a"
+        "sha": "beb9a0f"
       }
     },
     {
@@ -1514,7 +1514,7 @@
       "id": "anthropics-skills-academy-guide",
       "name": "academy-guide",
       "description": ">",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1539,16 +1539,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/academy-guide",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/academy-guide",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-algorithmic-art",
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1573,16 +1573,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/algorithmic-art",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/algorithmic-art",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-brand-guidelines",
       "name": "brand-guidelines",
       "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1607,16 +1607,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/brand-guidelines",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/brand-guidelines",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-canvas-design",
       "name": "canvas-design",
       "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1641,16 +1641,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/canvas-design",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/canvas-design",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-claude-api",
       "name": "claude-api",
       "description": "|-",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1675,16 +1675,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/claude-api",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/claude-api",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-discernment-nudge",
       "name": "discernment-nudge",
       "description": ">",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1709,16 +1709,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/discernment-nudge",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/discernment-nudge",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-frontend-design",
       "name": "frontend-design",
       "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1734,7 +1734,7 @@
         "LICENSE.txt"
       ],
       "sha256": {
-        "SKILL.md": "1608ea77fbb6fc30d13a97d12cfa8ebf31358d40f0dd97beed24829d6b3f45dd",
+        "SKILL.md": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
         "LICENSE.txt": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
       },
       "type": "skill",
@@ -1743,16 +1743,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/frontend-design",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/frontend-design",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-internal-comms",
       "name": "internal-comms",
       "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1777,16 +1777,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/internal-comms",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/internal-comms",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-mcp-builder",
       "name": "mcp-builder",
       "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1811,16 +1811,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/mcp-builder",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/mcp-builder",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-skill-creator",
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1845,16 +1845,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/skill-creator",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/skill-creator",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
       "id": "anthropics-skills-slack-gif-creator",
       "name": "slack-gif-creator",
       "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
-      "version": "5304866",
+      "version": "41bbe19",
       "tags": [
         "anthropic",
         "example"
@@ -1879,9 +1879,9 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/53048666b05b4799081517d00e09e0a2dd688678/skills/slack-gif-creator",
+        "url": "https://github.com/anthropics/skills/tree/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/slack-gif-creator",
         "ref": "main",
-        "sha": "5304866"
+        "sha": "41bbe19"
       }
     },
     {
