@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:22:29.553Z",
+  "updatedAt": "2026-09-06T08:41:11.705Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 14,
@@ -58,6 +58,16 @@
     },
     {
       "source": "karanb192-hooks",
+      "name": "cache-tax — UserPromptSubmit",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
+      "name": "cache-tax — SessionStart",
+      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
+    },
+    {
+      "source": "karanb192-hooks",
       "name": "case-insensitive-guard — PreToolUse",
       "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
     },
@@ -94,16 +104,6 @@
     {
       "source": "karanb192-hooks",
       "name": "dead-end-registry — Stop",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "dead-end-registry — SubagentStop",
-      "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
-    },
-    {
-      "source": "karanb192-hooks",
-      "name": "dead-end-registry — PreCompact",
       "reason": "comando depende de ${CLAUDE_PLUGIN_ROOT} ou script auxiliar fora do hook.json — o Maestro instala hook via merge simples no settings.json (não materializa scripts de plugin), então este item não funcionaria fora de um install nativo de plugin."
     },
     {
