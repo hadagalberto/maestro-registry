@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T09:23:19.580Z",
+  "updatedAt": "2026-09-08T08:53:35.034Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -921,7 +921,7 @@
       "id": "dwarvesf-guardrails-full-cannot-escalate-permissions-from-within-a-session",
       "name": "full Cannot escalate permissions from within a session",
       "description": "Cannot escalate permissions from within a session.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -943,16 +943,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-destructive-delete-detected",
       "name": "full Destructive delete detected",
       "description": "Destructive delete detected. Use trash-cli or move to a temp directory instead.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -974,16 +974,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-direct-push-to-main-master-production",
       "name": "full Direct push to main/master/production",
       "description": "Direct push to main/master/production. Use a feature branch and PR.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -1005,16 +1005,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-pipe-to-shell-detected",
       "name": "full Pipe-to-shell detected",
       "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -1036,16 +1036,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-potential-data-exfiltration-to-external-service",
       "name": "full Potential data exfiltration to external service",
       "description": "Potential data exfiltration to external service.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -1067,16 +1067,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-destructive-delete",
       "name": "lite Destructive delete",
       "description": "Destructive delete. Use trash or move to tmp instead.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -1098,16 +1098,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-direct-push-to-protected-branch",
       "name": "lite Direct push to protected branch",
       "description": "Direct push to protected branch. Use a feature branch and PR.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -1129,16 +1129,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-pipe-to-shell-detected",
       "name": "lite Pipe-to-shell detected",
       "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
-      "version": "4396c03",
+      "version": "b3c3e15",
       "tags": [
         "community",
         "security",
@@ -1160,9 +1160,9 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/4396c03a89837da3b026ebd73d4416b9589f4c5f/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json",
         "ref": "main",
-        "sha": "4396c03"
+        "sha": "b3c3e15"
       }
     },
     {
@@ -1444,68 +1444,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://ankimcp.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-anomalyarmor",
-      "name": "AnomalyArmor",
-      "description": "Data observability tools for engineering teams: alerts, freshness, schema drift, lineage, quality.",
-      "version": "0.6.1",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-anomalyarmor",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "1b68ed8c76c65024c80cfb45ded4f18d9fa54bc8a664f8d9ab688d3eacd57d99"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "anomalyarmor",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://www.anomalyarmor.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-auralogs",
-      "name": "Auralogs",
-      "description": "Read-only access to Auralogs production logs: search logs, inspect errors, review AI analyses.",
-      "version": "0.1.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-auralogs",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "463d1e803c987fc9117f5376e200af73e492d28e10a8490d6579dd1432b1e2b3"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "auralogs-ai",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://docs.auralogs.ai/read-api/overview/",
         "ref": "main",
         "sha": "live"
       }

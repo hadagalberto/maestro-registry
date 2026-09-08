@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:23:19.580Z",
+  "updatedAt": "2026-09-08T08:53:35.034Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 14,
@@ -7,9 +7,9 @@
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
     "dwarvesf-guardrails": 8,
-    "mcp-registry": 11
+    "mcp-registry": 9
   },
-  "totalItems": 74,
+  "totalItems": 72,
   "needsReview": [
     {
       "source": "anthropics-skills",
@@ -119,6 +119,16 @@
     {
       "source": "mcp-registry",
       "name": "ac.tandem/docs-mcp",
+      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
+    },
+    {
+      "source": "mcp-registry",
+      "name": "Business Contact Finder",
+      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
+    },
+    {
+      "source": "mcp-registry",
+      "name": "Contractor Licence Changes",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     }
   ],
