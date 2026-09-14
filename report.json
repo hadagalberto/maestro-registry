@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:34:20.929Z",
+  "updatedAt": "2026-09-14T09:53:47.364Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 14,
@@ -7,9 +7,9 @@
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
     "dwarvesf-guardrails": 8,
-    "mcp-registry": 9
+    "mcp-registry": 8
   },
-  "totalItems": 72,
+  "totalItems": 71,
   "needsReview": [
     {
       "source": "anthropics-skills",
@@ -129,6 +129,11 @@
     {
       "source": "mcp-registry",
       "name": "Contractor Licence Changes",
+      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
+    },
+    {
+      "source": "mcp-registry",
+      "name": "Adako — careful ad ops for AI agents",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     }
   ],
