@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:53:47.364Z",
+  "updatedAt": "2026-09-15T09:29:05.091Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 14,
@@ -133,7 +133,7 @@
     },
     {
       "source": "mcp-registry",
-      "name": "Adako — careful ad ops for AI agents",
+      "name": "Adako: ad ops for AI assistants",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     }
   ],

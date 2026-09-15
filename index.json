@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T09:53:47.364Z",
+  "updatedAt": "2026-09-15T09:29:05.091Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -471,7 +471,7 @@
       "id": "voltagent-subagents-angular-architect",
       "name": "angular-architect",
       "description": "Use when architecting enterprise Angular 15+ applications with complex state management, optimizing RxJS patterns, designing micro-frontend systems, or solving performance and scalability challenges in large codebases.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -492,16 +492,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/02-language-specialists/angular-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/02-language-specialists/angular-architect.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-api-designer",
       "name": "api-designer",
       "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience. Invoke when you need REST/GraphQL endpoint design, OpenAPI documentation, authentication patterns, or API versioning strategies.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -522,16 +522,46 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/api-designer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/api-designer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
+      }
+    },
+    {
+      "id": "voltagent-subagents-auth-integration-engineer",
+      "name": "auth-integration-engineer",
+      "description": "Use this agent when implementing authentication and authorization — OAuth 2.1/OIDC flows, SAML enterprise SSO, session and token management, multi-tenant permission models, or MFA and passwordless login.",
+      "version": "ca7a50b",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-auth-integration-engineer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "b43da7da54251aa593a78e699365832d0021411d279783bf8dd38bc94ed502b4"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/auth-integration-engineer.md",
+        "ref": "main",
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-backend-developer",
       "name": "backend-developer",
       "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -552,16 +582,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/backend-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/backend-developer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-cpp-pro",
       "name": "cpp-pro",
       "description": "Use this agent when building high-performance C++ systems requiring modern C++20/23 features, template metaprogramming, or zero-overhead abstractions for systems programming, embedded systems, or performance-critical applications.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -582,46 +612,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/02-language-specialists/cpp-pro.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/02-language-specialists/cpp-pro.md",
         "ref": "main",
-        "sha": "d29a0a7"
-      }
-    },
-    {
-      "id": "voltagent-subagents-csharp-developer",
-      "name": "csharp-developer",
-      "description": "Use this agent when building ASP.NET Core web APIs, cloud-native .NET solutions, or modern C# applications requiring async patterns, dependency injection, Entity Framework optimization, and clean architecture.",
-      "version": "d29a0a7",
-      "tags": [
-        "community",
-        "subagent"
-      ],
-      "clis": [
-        "claude"
-      ],
-      "dir": "agents/voltagent-subagents-csharp-developer",
-      "files": [
-        "agent.md"
-      ],
-      "sha256": {
-        "agent.md": "9218f747ffe2c8dd1cf5397d61f04f5190c8ec7cbc53d8813460a5177af2ea44"
-      },
-      "type": "agent",
-      "license": "MIT",
-      "author": "VoltAgent",
-      "source": {
-        "registry": "voltagent-subagents",
-        "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/02-language-specialists/csharp-developer.md",
-        "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-design-bridge",
       "name": "design-bridge",
       "description": "Use this agent when you need to translate a DESIGN.md from the VoltAgent/awesome-design-md repository into polished Claude Code instructions for building user interfaces that faithfully match the chosen brand. Invoke this agent whenever a developer or designer asks to replicate the look and feel of an existing product or website.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -642,46 +642,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/design-bridge.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/design-bridge.md",
         "ref": "main",
-        "sha": "d29a0a7"
-      }
-    },
-    {
-      "id": "voltagent-subagents-django-developer",
-      "name": "django-developer",
-      "description": "Use when building Django 4+ web applications, REST APIs, or modernizing existing Django projects with async views and enterprise patterns.",
-      "version": "d29a0a7",
-      "tags": [
-        "community",
-        "subagent"
-      ],
-      "clis": [
-        "claude"
-      ],
-      "dir": "agents/voltagent-subagents-django-developer",
-      "files": [
-        "agent.md"
-      ],
-      "sha256": {
-        "agent.md": "cf287d2fa4308f8088f8d17bd131c1b161d2fe2915e687df51d6bfbfefa1f1bb"
-      },
-      "type": "agent",
-      "license": "MIT",
-      "author": "VoltAgent",
-      "source": {
-        "registry": "voltagent-subagents",
-        "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/02-language-specialists/django-developer.md",
-        "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-electron-pro",
       "name": "electron-pro",
       "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization. Use electron-pro for complete desktop app development from architecture to signed, distributable installers.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -702,16 +672,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/electron-pro.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/electron-pro.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-frontend-developer",
       "name": "frontend-developer",
       "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -732,16 +702,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/frontend-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/frontend-developer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-fullstack-developer",
       "name": "fullstack-developer",
       "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -762,16 +732,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/fullstack-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/fullstack-developer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-graphql-architect",
       "name": "graphql-architect",
       "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -792,16 +762,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/graphql-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/graphql-architect.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-microservices-architect",
       "name": "microservices-architect",
       "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -822,16 +792,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/microservices-architect.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/microservices-architect.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-mobile-developer",
       "name": "mobile-developer",
       "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture. Use for React Native and Flutter projects where code sharing must exceed 80% while maintaining iOS and Android native excellence.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -852,16 +822,16 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/mobile-developer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/mobile-developer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-ui-designer",
       "name": "ui-designer",
       "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and accessibility considerations.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -882,16 +852,46 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/ui-designer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/ui-designer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
+      }
+    },
+    {
+      "id": "voltagent-subagents-webhook-engineer",
+      "name": "webhook-engineer",
+      "description": "Use this agent when consuming or delivering webhooks — signature verification, idempotent handlers, retry and backoff policies, event ordering, dead-letter queues, or designing an outbound webhook system for your own API.",
+      "version": "ca7a50b",
+      "tags": [
+        "community",
+        "subagent"
+      ],
+      "clis": [
+        "claude"
+      ],
+      "dir": "agents/voltagent-subagents-webhook-engineer",
+      "files": [
+        "agent.md"
+      ],
+      "sha256": {
+        "agent.md": "4c6c5ca71ddcb7af8bfe497eb20dfbf2cc444c0e7831da874cebf564408d47fd"
+      },
+      "type": "agent",
+      "license": "MIT",
+      "author": "VoltAgent",
+      "source": {
+        "registry": "voltagent-subagents",
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/webhook-engineer.md",
+        "ref": "main",
+        "sha": "ca7a50b"
       }
     },
     {
       "id": "voltagent-subagents-websocket-engineer",
       "name": "websocket-engineer",
       "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
-      "version": "d29a0a7",
+      "version": "ca7a50b",
       "tags": [
         "community",
         "subagent"
@@ -912,9 +912,9 @@
       "source": {
         "registry": "voltagent-subagents",
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/d29a0a7c1c85a13f5ef763586092948e3b5b134e/categories/01-core-development/websocket-engineer.md",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents/blob/ca7a50b7648682c3a9e33dbf0a12c5a4c770cb89/categories/01-core-development/websocket-engineer.md",
         "ref": "main",
-        "sha": "d29a0a7"
+        "sha": "ca7a50b"
       }
     },
     {
