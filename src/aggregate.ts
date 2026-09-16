@@ -228,7 +228,17 @@ function writeAttribution(items: CatalogItem[]): void {
     })
     .join('\n')
 
-  const content = `# ATTRIBUTION\n\n> Gerado automaticamente por \`src/aggregate.ts\` — NÃO editar à mão (o próximo run sobrescreve).\n> Cada item materializado neste registry preserva a licença e a atribuição originais,\n> conforme exigido pelas licenças permissivas (MIT/Apache-2.0/BSD/ISC/CC0/CC-BY) das obras\n> upstream — ver política em REGISTRY-INTEGRATION.md §5 (repo Terminal) e README.md.\n\n| id | nome | tipo | autor | licença | fonte | sha | link |\n|---|---|---|---|---|---|---|---|\n${rows}\n`
+  const content = `# ATTRIBUTION
+
+> Gerado automaticamente por \`src/aggregate.ts\` — NÃO editar à mão (o próximo run sobrescreve).
+> Cada item materializado neste registry preserva a licença e a atribuição originais,
+> conforme exigido pelas licenças permissivas (MIT/Apache-2.0/BSD/ISC/CC0/CC-BY) das obras
+> upstream — ver política em REGISTRY-INTEGRATION.md §5 (repo Terminal) e README.md.
+
+| id | nome | tipo | autor | licença | fonte | sha | link |
+|---|---|---|---|---|---|---|---|
+${rows}
+`
   writeFileSync(ATTRIBUTION_PATH, content)
 }
 
