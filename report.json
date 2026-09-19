@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-18T09:01:31.080Z",
+  "updatedAt": "2026-09-19T08:49:17.802Z",
   "counts": {
     "anthropics-skills": 11,
-    "obra-superpowers": 14,
+    "obra-superpowers": 15,
     "voltagent-subagents": 15,
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
     "dwarvesf-guardrails": 8,
     "mcp-registry": 8
   },
-  "totalItems": 71,
+  "totalItems": 72,
   "needsReview": [
     {
       "source": "anthropics-skills",
