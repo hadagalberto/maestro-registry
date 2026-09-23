@@ -52,7 +52,7 @@
 | mcp-registry-agenttrust-identity-trust-for-a2a-agents | AgentTrust — Identity & Trust for A2A Agents | mcp | agenttrust | MIT | mcp-registry | live | https://agenttrust.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-ai-adtest-adtest-mcp | ai.adtest/adtest-mcp | mcp | menaker | MIT | mcp-registry | live | https://adtest.ai/ |
-| mcp-registry-analytics-legends-sap-analytics-intelligence | Analytics Legends — SAP Analytics Intelligence | mcp | analyticslegends | MIT | mcp-registry | live | https://analyticslegends.ai |
+| mcp-registry-aidoo-for-odoo | Aidoo for Odoo | mcp | eantoniomota | MIT | mcp-registry | live | https://aidoo.ai |
 | anthropics-skills-academy-guide | academy-guide | skill | anthropics | Apache-2.0 | anthropics-skills | 34040c9 | https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/academy-guide |
 | anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | 34040c9 | https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/algorithmic-art |
 | anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | 34040c9 | https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/brand-guidelines |

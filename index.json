@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T09:21:10.234Z",
+  "updatedAt": "2026-09-23T09:20:57.285Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1386,10 +1386,10 @@
       }
     },
     {
-      "id": "mcp-registry-analytics-legends-sap-analytics-intelligence",
-      "name": "Analytics Legends — SAP Analytics Intelligence",
-      "description": "AI agent for SAP analytics: firms, day rates, contract radar, news, concepts, studies",
-      "version": "1.0.6",
+      "id": "mcp-registry-aidoo-for-odoo",
+      "name": "Aidoo for Odoo",
+      "description": "Query and update your Odoo ERP in plain language, under your own Odoo access rules.",
+      "version": "1.0.0",
       "tags": [
         "mcp",
         "community"
@@ -1398,20 +1398,20 @@
         "claude",
         "gemini"
       ],
-      "dir": "mcps/mcp-registry-analytics-legends-sap-analytics-intelligence",
+      "dir": "mcps/mcp-registry-aidoo-for-odoo",
       "files": [
         "mcp.json"
       ],
       "sha256": {
-        "mcp.json": "9de9e043d1e70038e22f59aa708007230dad000692c59460b4962ee34d729031"
+        "mcp.json": "3257c66ac12c00cc1878d4502323f544bc39eb38883e0da68d456f58280cd187"
       },
       "type": "mcp",
       "license": "MIT",
-      "author": "analyticslegends",
+      "author": "eantoniomota",
       "source": {
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
-        "url": "https://analyticslegends.ai",
+        "url": "https://aidoo.ai",
         "ref": "main",
         "sha": "live"
       }
