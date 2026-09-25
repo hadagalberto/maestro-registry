@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T09:19:54.864Z",
+  "updatedAt": "2026-09-25T09:38:28.445Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1420,7 +1420,7 @@
       "id": "anthropics-skills-academy-guide",
       "name": "academy-guide",
       "description": ">",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1445,16 +1445,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/academy-guide",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/academy-guide",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-algorithmic-art",
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1479,16 +1479,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/algorithmic-art",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/algorithmic-art",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-brand-guidelines",
       "name": "brand-guidelines",
       "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1513,16 +1513,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/brand-guidelines",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/brand-guidelines",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-canvas-design",
       "name": "canvas-design",
       "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1547,16 +1547,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/canvas-design",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/canvas-design",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-claude-api",
       "name": "claude-api",
       "description": "|-",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1581,16 +1581,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/claude-api",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/claude-api",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-discernment-nudge",
       "name": "discernment-nudge",
       "description": ">",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1615,16 +1615,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/discernment-nudge",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/discernment-nudge",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-frontend-design",
       "name": "frontend-design",
       "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1649,16 +1649,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/frontend-design",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/frontend-design",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-internal-comms",
       "name": "internal-comms",
       "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1683,16 +1683,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/internal-comms",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/internal-comms",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-mcp-builder",
       "name": "mcp-builder",
       "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1717,16 +1717,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/mcp-builder",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/mcp-builder",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-skill-creator",
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1751,16 +1751,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/skill-creator",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/skill-creator",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
       "id": "anthropics-skills-slack-gif-creator",
       "name": "slack-gif-creator",
       "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
-      "version": "34040c9",
+      "version": "3337550",
       "tags": [
         "anthropic",
         "example"
@@ -1785,9 +1785,9 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/34040c9c568585f6929bedeaad110ad08f079624/skills/slack-gif-creator",
+        "url": "https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/slack-gif-creator",
         "ref": "main",
-        "sha": "34040c9"
+        "sha": "3337550"
       }
     },
     {
