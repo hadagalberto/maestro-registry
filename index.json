@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T09:38:28.445Z",
+  "updatedAt": "2026-09-26T09:22:31.307Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1386,37 +1386,6 @@
       }
     },
     {
-      "id": "mcp-registry-aidoo-for-odoo",
-      "name": "Aidoo for Odoo",
-      "description": "Query and update your Odoo ERP in plain language, under your own Odoo access rules.",
-      "version": "1.0.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-aidoo-for-odoo",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "3257c66ac12c00cc1878d4502323f544bc39eb38883e0da68d456f58280cd187"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "eantoniomota",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://aidoo.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
       "id": "anthropics-skills-academy-guide",
       "name": "academy-guide",
       "description": ">",
@@ -1794,7 +1763,7 @@
       "id": "obra-superpowers-brainstorming",
       "name": "brainstorming",
       "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -1817,16 +1786,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/brainstorming",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/brainstorming",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-diagnosing-superpowers",
       "name": "diagnosing-superpowers",
       "description": "Use when a superpowers session went wrong and your human partner wants to know why — repeated work, ignored plans, stumbles, poor results, a skill that didn't fire, \"it took too long\", \"why is it so expensive\", \"what is it doing\" — or wants to build a bug report for the superpowers maintainers, for the current session or a past one identified by id or path, on any harness.",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -1849,16 +1818,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/diagnosing-superpowers",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/diagnosing-superpowers",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-dispatching-parallel-agents",
       "name": "dispatching-parallel-agents",
       "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -1881,16 +1850,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/dispatching-parallel-agents",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/dispatching-parallel-agents",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-executing-plans",
       "name": "executing-plans",
       "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -1913,16 +1882,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/executing-plans",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/executing-plans",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-finishing-a-development-branch",
       "name": "finishing-a-development-branch",
       "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -1945,16 +1914,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/finishing-a-development-branch",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/finishing-a-development-branch",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-receiving-code-review",
       "name": "receiving-code-review",
       "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -1977,16 +1946,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/receiving-code-review",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/receiving-code-review",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-requesting-code-review",
       "name": "requesting-code-review",
       "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2009,16 +1978,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/requesting-code-review",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/requesting-code-review",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-subagent-driven-development",
       "name": "subagent-driven-development",
       "description": "Use when executing implementation plans with independent tasks in the current session",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2041,16 +2010,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/subagent-driven-development",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/subagent-driven-development",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-systematic-debugging",
       "name": "systematic-debugging",
       "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2073,16 +2042,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/systematic-debugging",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/systematic-debugging",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-test-driven-development",
       "name": "test-driven-development",
       "description": "Use when implementing any feature or bugfix, before writing implementation code",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2105,16 +2074,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/test-driven-development",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/test-driven-development",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-using-git-worktrees",
       "name": "using-git-worktrees",
       "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2137,16 +2106,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/using-git-worktrees",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/using-git-worktrees",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-using-superpowers",
       "name": "using-superpowers",
       "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2169,16 +2138,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/using-superpowers",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/using-superpowers",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-verification-before-completion",
       "name": "verification-before-completion",
       "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2201,16 +2170,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/verification-before-completion",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/verification-before-completion",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-writing-plans",
       "name": "writing-plans",
       "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2225,7 +2194,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "0bc3d36590f7b2c323ed3ec18ff77e9f8ed57af42f5680a02b11a2d20de265cf"
+        "SKILL.md": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a"
       },
       "type": "skill",
       "license": "MIT",
@@ -2233,16 +2202,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/writing-plans",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/writing-plans",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     },
     {
       "id": "obra-superpowers-writing-skills",
       "name": "writing-skills",
       "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
-      "version": "5bf4e78",
+      "version": "8ca22db",
       "tags": [
         "community",
         "workflow"
@@ -2265,9 +2234,9 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/5bf4e78011075bcfc0dc295f0724994cd123ee71/skills/writing-skills",
+        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/writing-skills",
         "ref": "main",
-        "sha": "5bf4e78"
+        "sha": "8ca22db"
       }
     }
   ]
