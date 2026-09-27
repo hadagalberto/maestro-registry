@@ -47,11 +47,11 @@
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | b3c3e15 | https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json |
 | mcp-registry-affiliate-networks-mcp | Affiliate Networks MCP | mcp | bobberrisford | MIT | mcp-registry | live | https://agenticaffiliate.ai |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
+| mcp-registry-agent-bev | agent-bev | mcp | agent-bev | MIT | mcp-registry | live | https://agent-bev.ai |
 | mcp-registry-agentic-terminal-directory | Agentic Terminal Directory | mcp | observer-protocol | MIT | mcp-registry | live | https://agenticterminal.ai |
-| mcp-registry-agentplaybooks | AgentPlaybooks | mcp | matebenyovszky | MIT | mcp-registry | live | https://agentplaybooks.ai |
-| mcp-registry-agenttrust-identity-trust-for-a2a-agents | AgentTrust — Identity & Trust for A2A Agents | mcp | agenttrust | MIT | mcp-registry | live | https://agenttrust.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-ai-adtest-adtest-mcp | ai.adtest/adtest-mcp | mcp | menaker | MIT | mcp-registry | live | https://adtest.ai/ |
+| mcp-registry-getlead | Getlead | mcp | Adgrowofficial | MIT | mcp-registry | live | https://getle.ad/mcp |
 | anthropics-skills-academy-guide | academy-guide | skill | anthropics | Apache-2.0 | anthropics-skills | 3337550 | https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/academy-guide |
 | anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | 3337550 | https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/algorithmic-art |
 | anthropics-skills-brand-guidelines | brand-guidelines | skill | anthropics | Apache-2.0 | anthropics-skills | 3337550 | https://github.com/anthropics/skills/tree/33375500bcea98d610eb30ce10ac4e59b89c390d/skills/brand-guidelines |

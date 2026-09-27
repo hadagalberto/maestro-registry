@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T09:22:31.307Z",
+  "updatedAt": "2026-09-27T10:01:40.203Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1228,6 +1228,37 @@
       }
     },
     {
+      "id": "mcp-registry-agent-bev",
+      "name": "agent-bev",
+      "description": "Agentic B2B hub for beer, wine and spirits across Europe.",
+      "version": "0.2.2",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-agent-bev",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "72fa8784cb720009cd71ed3e3025aa9d6747de3fd47fcf10b09a8b4f1e47d23c"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "agent-bev",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://agent-bev.ai",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
       "id": "mcp-registry-agentic-terminal-directory",
       "name": "Agentic Terminal Directory",
       "description": "Verified merchants accepting agentic payments on Lightning/L402/BOLT12/USDT — search, verify, pay.",
@@ -1254,69 +1285,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://agenticterminal.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-agentplaybooks",
-      "name": "AgentPlaybooks",
-      "description": "Manage portable AI agent playbooks, Agent Skills, MCP configurations, personas, and memory.",
-      "version": "1.0.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-agentplaybooks",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "430d2dbd6dceaad3cc2f60e4a26ec2d77538fec48c778e5567bb4f308af94aff"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "matebenyovszky",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://agentplaybooks.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-agenttrust-identity-trust-for-a2a-agents",
-      "name": "AgentTrust — Identity & Trust for A2A Agents",
-      "description": "Identity, trust, and A2A orchestration for autonomous AI agents. Official A2A partner.",
-      "version": "1.1.1",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "codex",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-agenttrust-identity-trust-for-a2a-agents",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "d97e5c901754e3b37efd9d79231f303354a37b2e758f3e3882cef53154363ed7"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "agenttrust",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://agenttrust.ai",
         "ref": "main",
         "sha": "live"
       }
@@ -1381,6 +1349,37 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://adtest.ai/",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-getlead",
+      "name": "Getlead",
+      "description": "Find B2B leads with verified work emails, find and verify emails, and run cold email outreach.",
+      "version": "1.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-getlead",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "275bfea7ece7ee1cda27a80339dd17b5402afa0788a409486bed0c53a57cee29"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "Adgrowofficial",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://getle.ad/mcp",
         "ref": "main",
         "sha": "live"
       }
