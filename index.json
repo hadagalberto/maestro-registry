@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T10:42:51.554Z",
+  "updatedAt": "2026-09-30T10:30:54.548Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1231,7 +1231,7 @@
       "id": "mcp-registry-agent-bev",
       "name": "agent-bev",
       "description": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade only.",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "tags": [
         "mcp",
         "community"
