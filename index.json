@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T11:22:19.893Z",
+  "updatedAt": "2026-10-10T10:38:04.605Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1388,7 +1388,7 @@
       "id": "anthropics-skills-academy-guide",
       "name": "academy-guide",
       "description": ">",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1413,16 +1413,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/academy-guide",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/academy-guide",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-algorithmic-art",
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1447,16 +1447,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/algorithmic-art",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/algorithmic-art",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-brand-guidelines",
       "name": "brand-guidelines",
       "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1481,16 +1481,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/brand-guidelines",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/brand-guidelines",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-canvas-design",
       "name": "canvas-design",
       "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1515,16 +1515,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/canvas-design",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/canvas-design",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-claude-api",
       "name": "claude-api",
       "description": "|-",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1540,7 +1540,7 @@
         "LICENSE.txt"
       ],
       "sha256": {
-        "SKILL.md": "9b2e9285d4e47c43a8fe65ddb1a383a5079ab5aaa0f9adffe8e7b4c449e56141",
+        "SKILL.md": "40537cca17c4aa86e4ce83ced39efcbfb1204905e3cf4c4ff98f2eab011e4b7f",
         "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
       },
       "type": "skill",
@@ -1549,16 +1549,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/claude-api",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/claude-api",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-discernment-nudge",
       "name": "discernment-nudge",
       "description": ">",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1583,16 +1583,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/discernment-nudge",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/discernment-nudge",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-frontend-design",
       "name": "frontend-design",
       "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1617,16 +1617,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/frontend-design",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/frontend-design",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-internal-comms",
       "name": "internal-comms",
       "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1651,16 +1651,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/internal-comms",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/internal-comms",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-mcp-builder",
       "name": "mcp-builder",
       "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1685,16 +1685,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/mcp-builder",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/mcp-builder",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-skill-creator",
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1719,16 +1719,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/skill-creator",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/skill-creator",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "anthropics-skills-slack-gif-creator",
       "name": "slack-gif-creator",
       "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
-      "version": "9d63080",
+      "version": "dbd4588",
       "tags": [
         "anthropic",
         "example"
@@ -1753,16 +1753,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/slack-gif-creator",
+        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/slack-gif-creator",
         "ref": "main",
-        "sha": "9d63080"
+        "sha": "dbd4588"
       }
     },
     {
       "id": "obra-superpowers-brainstorming",
       "name": "brainstorming",
-      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
-      "version": "8ca22db",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, modifying behavior, or planning anything new, in software or out of it (a talk, a business, a renovation).",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1777,7 +1777,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "a32d2255354775aa124855aa7100cf276bea096fff4ebb3a0edf57be216e6c72"
+        "SKILL.md": "6ee10d1481b8a2580d5336ff66c5c08acc9d4b251b13bbc3bfd31be99c261d43"
       },
       "type": "skill",
       "license": "MIT",
@@ -1785,16 +1785,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/brainstorming",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/brainstorming",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-diagnosing-superpowers",
       "name": "diagnosing-superpowers",
       "description": "Use when a superpowers session went wrong and your human partner wants to know why — repeated work, ignored plans, stumbles, poor results, a skill that didn't fire, \"it took too long\", \"why is it so expensive\", \"what is it doing\" — or wants to build a bug report for the superpowers maintainers, for the current session or a past one identified by id or path, on any harness.",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1817,16 +1817,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/diagnosing-superpowers",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/diagnosing-superpowers",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-dispatching-parallel-agents",
       "name": "dispatching-parallel-agents",
       "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1849,16 +1849,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/dispatching-parallel-agents",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/dispatching-parallel-agents",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-executing-plans",
       "name": "executing-plans",
       "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1881,16 +1881,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/executing-plans",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/executing-plans",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-finishing-a-development-branch",
       "name": "finishing-a-development-branch",
       "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1913,16 +1913,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/finishing-a-development-branch",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/finishing-a-development-branch",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-receiving-code-review",
       "name": "receiving-code-review",
       "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1945,16 +1945,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/receiving-code-review",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/receiving-code-review",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-requesting-code-review",
       "name": "requesting-code-review",
       "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -1969,7 +1969,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "cfcee1b06774e7c0517f1e09be1a11f2d5680257072723e709ddbcf7e08b795a"
+        "SKILL.md": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc"
       },
       "type": "skill",
       "license": "MIT",
@@ -1977,16 +1977,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/requesting-code-review",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/requesting-code-review",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-subagent-driven-development",
       "name": "subagent-driven-development",
       "description": "Use when executing implementation plans with independent tasks in the current session",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2009,16 +2009,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/subagent-driven-development",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/subagent-driven-development",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-systematic-debugging",
       "name": "systematic-debugging",
       "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2033,7 +2033,7 @@
         "SKILL.md"
       ],
       "sha256": {
-        "SKILL.md": "808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787"
+        "SKILL.md": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202"
       },
       "type": "skill",
       "license": "MIT",
@@ -2041,16 +2041,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/systematic-debugging",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/systematic-debugging",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-test-driven-development",
       "name": "test-driven-development",
       "description": "Use when implementing any feature or bugfix, before writing implementation code",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2073,16 +2073,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/test-driven-development",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/test-driven-development",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-using-git-worktrees",
       "name": "using-git-worktrees",
       "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2105,16 +2105,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/using-git-worktrees",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/using-git-worktrees",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-using-superpowers",
       "name": "using-superpowers",
       "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2137,16 +2137,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/using-superpowers",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/using-superpowers",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-verification-before-completion",
       "name": "verification-before-completion",
       "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2169,16 +2169,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/verification-before-completion",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/verification-before-completion",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-writing-plans",
       "name": "writing-plans",
       "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2201,16 +2201,16 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/writing-plans",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/writing-plans",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     },
     {
       "id": "obra-superpowers-writing-skills",
       "name": "writing-skills",
       "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
-      "version": "8ca22db",
+      "version": "bb92a77",
       "tags": [
         "community",
         "workflow"
@@ -2233,9 +2233,9 @@
       "source": {
         "registry": "obra-superpowers",
         "repo": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers/tree/8ca22dba9a94f28898bbce59f2537ff4d87c747d/skills/writing-skills",
+        "url": "https://github.com/obra/superpowers/tree/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/writing-skills",
         "ref": "main",
-        "sha": "8ca22db"
+        "sha": "bb92a77"
       }
     }
   ]
