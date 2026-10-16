@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T09:10:03.553Z",
+  "updatedAt": "2026-10-16T09:03:04.222Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1259,37 +1259,6 @@
       }
     },
     {
-      "id": "mcp-registry-agentic-terminal-directory",
-      "name": "Agentic Terminal Directory",
-      "description": "Verified merchants accepting agentic payments on Lightning/L402/BOLT12/USDT — search, verify, pay.",
-      "version": "1.0.0",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-agentic-terminal-directory",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "9acfcbe52d3332469060c3c3a981940d7406844e4cbfe9435c24eae259a3f199"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "observer-protocol",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://agenticterminal.ai",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
       "id": "mcp-registry-ai-adeu-adeu",
       "name": "ai.adeu/adeu",
       "description": "Automated DOCX Redlining Engine",
@@ -1349,6 +1318,37 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://adtest.ai/",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-apex-ai-academy",
+      "name": "Apex AI Academy",
+      "description": "Lessons, news and pricing from Apex AI Academy, an AI academy run by agents. Free lessons, no key.",
+      "version": "1.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-apex-ai-academy",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "f94218d652507631e36eccb485e75beea67ec7a04da90571a5ed531fc0a72f8d"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "ApexAI-Academy",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://apexai.academy/developers/",
         "ref": "main",
         "sha": "live"
       }

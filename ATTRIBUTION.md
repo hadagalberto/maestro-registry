@@ -48,9 +48,9 @@
 | mcp-registry-affiliate-networks-mcp | Affiliate Networks MCP | mcp | bobberrisford | MIT | mcp-registry | live | https://agenticaffiliate.ai |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
 | mcp-registry-agent-bev | agent-bev | mcp | agent-bev | MIT | mcp-registry | live | https://agent-bev.ai |
-| mcp-registry-agentic-terminal-directory | Agentic Terminal Directory | mcp | observer-protocol | MIT | mcp-registry | live | https://agenticterminal.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-ai-adtest-adtest-mcp | ai.adtest/adtest-mcp | mcp | menaker | MIT | mcp-registry | live | https://adtest.ai/ |
+| mcp-registry-apex-ai-academy | Apex AI Academy | mcp | ApexAI-Academy | MIT | mcp-registry | live | https://apexai.academy/developers/ |
 | mcp-registry-getlead | Getlead | mcp | Adgrowofficial | MIT | mcp-registry | live | https://getle.ad/mcp |
 | anthropics-skills-academy-guide | academy-guide | skill | anthropics | Apache-2.0 | anthropics-skills | dbd4588 | https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/academy-guide |
 | anthropics-skills-algorithmic-art | algorithmic-art | skill | anthropics | Apache-2.0 | anthropics-skills | dbd4588 | https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/algorithmic-art |
