@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T09:56:49.532Z",
+  "updatedAt": "2026-10-20T09:27:19.083Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1166,32 +1166,33 @@
       }
     },
     {
-      "id": "mcp-registry-affiliate-networks-mcp",
-      "name": "Affiliate Networks MCP",
-      "description": "Affiliate network reporting in your AI client. Bring your own keys. Most adapters experimental.",
-      "version": "0.19.0",
+      "id": "mcp-registry-achromat-mom",
+      "name": "Achromat MOM",
+      "description": "Recall and calibrate agent tool calls against verified policy lessons from Achromat MOM.",
+      "version": "0.1.1",
       "tags": [
         "mcp",
         "community"
       ],
       "clis": [
         "claude",
+        "codex",
         "gemini"
       ],
-      "dir": "mcps/mcp-registry-affiliate-networks-mcp",
+      "dir": "mcps/mcp-registry-achromat-mom",
       "files": [
         "mcp.json"
       ],
       "sha256": {
-        "mcp.json": "a06ed7ee9abbae03039b5c02b1b5b8bae319ecaeee844a039abcf0e855191000"
+        "mcp.json": "a3098005d1994639d5e3067301922c0180c8adc98207b47a1a8d20725e7fef89"
       },
       "type": "mcp",
       "license": "MIT",
-      "author": "bobberrisford",
+      "author": "achromat-ai",
       "source": {
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
-        "url": "https://agenticaffiliate.ai",
+        "url": "https://mom.achromat.ai",
         "ref": "main",
         "sha": "live"
       }

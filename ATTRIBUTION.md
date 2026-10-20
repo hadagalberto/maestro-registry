@@ -45,7 +45,7 @@
 | dwarvesf-guardrails-lite-destructive-delete | lite Destructive delete | hook | dwarvesf | MIT | dwarvesf-guardrails | b3c3e15 | https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json |
 | dwarvesf-guardrails-lite-direct-push-to-protected-branch | lite Direct push to protected branch | hook | dwarvesf | MIT | dwarvesf-guardrails | b3c3e15 | https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json |
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | b3c3e15 | https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json |
-| mcp-registry-affiliate-networks-mcp | Affiliate Networks MCP | mcp | bobberrisford | MIT | mcp-registry | live | https://agenticaffiliate.ai |
+| mcp-registry-achromat-mom | Achromat MOM | mcp | achromat-ai | MIT | mcp-registry | live | https://mom.achromat.ai |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
 | mcp-registry-agent-bev | agent-bev | mcp | agent-bev | MIT | mcp-registry | live | https://agent-bev.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
