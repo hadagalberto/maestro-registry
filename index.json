@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T10:36:25.736Z",
+  "updatedAt": "2026-10-29T10:55:03.310Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -921,7 +921,7 @@
       "id": "dwarvesf-guardrails-full-cannot-escalate-permissions-from-within-a-session",
       "name": "full Cannot escalate permissions from within a session",
       "description": "Cannot escalate permissions from within a session.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -943,16 +943,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-destructive-delete-detected",
       "name": "full Destructive delete detected",
       "description": "Destructive delete detected. Use trash-cli or move to a temp directory instead.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -974,16 +974,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-direct-push-to-main-master-production",
       "name": "full Direct push to main/master/production",
       "description": "Direct push to main/master/production. Use a feature branch and PR.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -1005,16 +1005,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-pipe-to-shell-detected",
       "name": "full Pipe-to-shell detected",
       "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -1036,16 +1036,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-potential-data-exfiltration-to-external-service",
       "name": "full Potential data exfiltration to external service",
       "description": "Potential data exfiltration to external service.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -1067,16 +1067,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-destructive-delete",
       "name": "lite Destructive delete",
       "description": "Destructive delete. Use trash or move to tmp instead.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -1098,16 +1098,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-direct-push-to-protected-branch",
       "name": "lite Direct push to protected branch",
       "description": "Direct push to protected branch. Use a feature branch and PR.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -1129,16 +1129,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-pipe-to-shell-detected",
       "name": "lite Pipe-to-shell detected",
       "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
-      "version": "b3c3e15",
+      "version": "590bc5d",
       "tags": [
         "community",
         "security",
@@ -1160,9 +1160,9 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/b3c3e1555d4e4d6880c50ad04beb58596282c472/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json",
         "ref": "main",
-        "sha": "b3c3e15"
+        "sha": "590bc5d"
       }
     },
     {
@@ -1388,7 +1388,7 @@
       "id": "anthropics-skills-academy-guide",
       "name": "academy-guide",
       "description": ">",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1413,16 +1413,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/academy-guide",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/academy-guide",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-algorithmic-art",
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1447,16 +1447,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/algorithmic-art",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/algorithmic-art",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-brand-guidelines",
       "name": "brand-guidelines",
       "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1481,16 +1481,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/brand-guidelines",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/brand-guidelines",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-canvas-design",
       "name": "canvas-design",
       "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1515,16 +1515,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/canvas-design",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/canvas-design",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-claude-api",
       "name": "claude-api",
       "description": "|-",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1549,16 +1549,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/claude-api",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/claude-api",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-discernment-nudge",
       "name": "discernment-nudge",
       "description": ">",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1583,16 +1583,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/discernment-nudge",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/discernment-nudge",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-frontend-design",
       "name": "frontend-design",
       "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1617,16 +1617,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/frontend-design",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/frontend-design",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-internal-comms",
       "name": "internal-comms",
       "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1651,16 +1651,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/internal-comms",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/internal-comms",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-mcp-builder",
       "name": "mcp-builder",
       "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1676,7 +1676,7 @@
         "LICENSE.txt"
       ],
       "sha256": {
-        "SKILL.md": "0f4592dcb53cf2b5d6b7febee6b4152018b565551a1c29e3c612f57b218ab295",
+        "SKILL.md": "b483b56d6673134497e45489c317f26ae0f1429c194db0297e43073e17e6748c",
         "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362"
       },
       "type": "skill",
@@ -1685,16 +1685,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/mcp-builder",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/mcp-builder",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-skill-creator",
       "name": "skill-creator",
       "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1719,16 +1719,16 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/skill-creator",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/skill-creator",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
       "id": "anthropics-skills-slack-gif-creator",
       "name": "slack-gif-creator",
       "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
-      "version": "dbd4588",
+      "version": "ca45fc4",
       "tags": [
         "anthropic",
         "example"
@@ -1753,9 +1753,9 @@
       "source": {
         "registry": "anthropics-skills",
         "repo": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/slack-gif-creator",
+        "url": "https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/slack-gif-creator",
         "ref": "main",
-        "sha": "dbd4588"
+        "sha": "ca45fc4"
       }
     },
     {
