@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:27:39.950Z",
+  "updatedAt": "2026-11-03T11:57:23.156Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1223,37 +1223,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://goji.agency",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-agent-bev",
-      "name": "agent-bev",
-      "description": "The world's largest agentic B2B hub for beer, wine and spirits. Powered by CUVEE. Trade only.",
-      "version": "0.2.5",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-agent-bev",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "72fa8784cb720009cd71ed3e3025aa9d6747de3fd47fcf10b09a8b4f1e47d23c"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "agent-bev",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://agent-bev.ai",
         "ref": "main",
         "sha": "live"
       }

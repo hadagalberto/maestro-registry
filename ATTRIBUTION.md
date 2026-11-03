@@ -47,7 +47,6 @@
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | 590bc5d | https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json |
 | mcp-registry-achromat-mom | Achromat MOM | mcp | achromat-ai | MIT | mcp-registry | live | https://mom.achromat.ai |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
-| mcp-registry-agent-bev | agent-bev | mcp | agent-bev | MIT | mcp-registry | live | https://agent-bev.ai |
 | mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-ai-adtest-adtest-mcp | ai.adtest/adtest-mcp | mcp | menaker | MIT | mcp-registry | live | https://adtest.ai/ |
 | mcp-registry-apex-ai-academy | Apex AI Academy | mcp | ApexAI-Academy | MIT | mcp-registry | live | https://apexai.academy/developers/ |
