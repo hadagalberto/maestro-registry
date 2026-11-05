@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T12:10:45.319Z",
+  "updatedAt": "2026-11-05T12:23:54.417Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1166,10 +1166,10 @@
       }
     },
     {
-      "id": "mcp-registry-achromat-mom",
-      "name": "Achromat MOM",
+      "id": "mcp-registry-achromat-machine-operational-memory",
+      "name": "Achromat Machine Operational Memory",
       "description": "Recall and calibrate policy-compliant tool-call arguments before execution. Does not run the tool.",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "tags": [
         "mcp",
         "community"
@@ -1178,12 +1178,12 @@
         "claude",
         "gemini"
       ],
-      "dir": "mcps/mcp-registry-achromat-mom",
+      "dir": "mcps/mcp-registry-achromat-machine-operational-memory",
       "files": [
         "mcp.json"
       ],
       "sha256": {
-        "mcp.json": "8f2c16a8b6204d85348d0c3722847e2202cd7ee9559bbf1d984e2b5c4bc12c81"
+        "mcp.json": "027592829dc413bc59ee04156cc8e40cc7a2f31162e5c252e853def3a18c2570"
       },
       "type": "mcp",
       "license": "MIT",
@@ -1191,7 +1191,7 @@
       "source": {
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
-        "url": "https://mom.achromat.ai",
+        "url": "https://achromat.ai",
         "ref": "main",
         "sha": "live"
       }
