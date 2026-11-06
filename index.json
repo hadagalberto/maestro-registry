@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T12:23:54.417Z",
+  "updatedAt": "2026-11-06T12:08:46.202Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1223,38 +1223,6 @@
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
         "url": "https://goji.agency",
-        "ref": "main",
-        "sha": "live"
-      }
-    },
-    {
-      "id": "mcp-registry-ai-adeu-adeu",
-      "name": "ai.adeu/adeu",
-      "description": "Automated DOCX Redlining Engine",
-      "version": "1.7.1",
-      "tags": [
-        "mcp",
-        "community"
-      ],
-      "clis": [
-        "claude",
-        "codex",
-        "gemini"
-      ],
-      "dir": "mcps/mcp-registry-ai-adeu-adeu",
-      "files": [
-        "mcp.json"
-      ],
-      "sha256": {
-        "mcp.json": "107414e4cfdfbdab4ceff6332251a8d8eabdd16d65cec94580fd41e9b23ae459"
-      },
-      "type": "mcp",
-      "license": "MIT",
-      "author": "dealfluence",
-      "source": {
-        "registry": "mcp-registry",
-        "repo": "modelcontextprotocol/registry",
-        "url": "https://github.com/dealfluence/adeu",
         "ref": "main",
         "sha": "live"
       }

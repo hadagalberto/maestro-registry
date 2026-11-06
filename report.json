@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:23:54.417Z",
+  "updatedAt": "2026-11-06T12:08:46.202Z",
   "counts": {
     "anthropics-skills": 11,
     "obra-superpowers": 15,
@@ -7,9 +7,9 @@
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
     "dwarvesf-guardrails": 8,
-    "mcp-registry": 6
+    "mcp-registry": 5
   },
-  "totalItems": 70,
+  "totalItems": 69,
   "needsReview": [
     {
       "source": "anthropics-skills",
@@ -119,6 +119,11 @@
     {
       "source": "mcp-registry",
       "name": "ac.tandem/docs-mcp",
+      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
+    },
+    {
+      "source": "mcp-registry",
+      "name": "EXTREMELY agency",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     },
     {

@@ -47,7 +47,6 @@
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | 590bc5d | https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json |
 | mcp-registry-achromat-machine-operational-memory | Achromat Machine Operational Memory | mcp | achromat-ai | MIT | mcp-registry | live | https://achromat.ai |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
-| mcp-registry-ai-adeu-adeu | ai.adeu/adeu | mcp | dealfluence | MIT | mcp-registry | live | https://github.com/dealfluence/adeu |
 | mcp-registry-apex-ai-academy | Apex AI Academy | mcp | ApexAI-Academy | MIT | mcp-registry | live | https://apexai.academy/developers/ |
 | mcp-registry-apogee-bulk-ad-launcher-for-meta-tiktok-snapchat | Apogee: Bulk Ad Launcher for Meta, TikTok & Snapchat | mcp | ApogeeGIT | MIT | mcp-registry | live | https://www.apogee.ad/developers/mcp/ |
 | mcp-registry-getlead | Getlead | mcp | Adgrowofficial | MIT | mcp-registry | live | https://getle.ad/mcp |
