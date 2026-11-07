@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T12:08:46.202Z",
+  "updatedAt": "2026-11-07T11:05:28.595Z",
   "counts": {
-    "anthropics-skills": 11,
+    "anthropics-skills": 14,
     "obra-superpowers": 15,
     "voltagent-subagents": 15,
     "0xfurai-subagents": 15,
@@ -9,27 +9,12 @@
     "dwarvesf-guardrails": 8,
     "mcp-registry": 5
   },
-  "totalItems": 69,
+  "totalItems": 72,
   "needsReview": [
     {
       "source": "anthropics-skills",
       "name": "doc-coauthoring",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
-    },
-    {
-      "source": "anthropics-skills",
-      "name": "docx",
-      "reason": "licença não permissiva/ausente (origem: license-file, valor: nenhum)"
-    },
-    {
-      "source": "anthropics-skills",
-      "name": "pdf",
-      "reason": "licença não permissiva/ausente (origem: license-file, valor: nenhum)"
-    },
-    {
-      "source": "anthropics-skills",
-      "name": "pptx",
-      "reason": "licença não permissiva/ausente (origem: license-file, valor: nenhum)"
     },
     {
       "source": "karanb192-hooks",
