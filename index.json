@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T11:17:59.446Z",
+  "updatedAt": "2026-11-09T12:54:24.216Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -921,7 +921,7 @@
       "id": "dwarvesf-guardrails-full-cannot-escalate-permissions-from-within-a-session",
       "name": "full Cannot escalate permissions from within a session",
       "description": "Cannot escalate permissions from within a session.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -943,16 +943,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/full/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-destructive-delete-detected",
       "name": "full Destructive delete detected",
       "description": "Destructive delete detected. Use trash-cli or move to a temp directory instead.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -974,16 +974,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/full/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-direct-push-to-main-master-production",
       "name": "full Direct push to main/master/production",
       "description": "Direct push to main/master/production. Use a feature branch and PR.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -1005,16 +1005,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/full/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-pipe-to-shell-detected",
       "name": "full Pipe-to-shell detected",
       "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -1036,16 +1036,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/full/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-full-potential-data-exfiltration-to-external-service",
       "name": "full Potential data exfiltration to external service",
       "description": "Potential data exfiltration to external service.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -1067,16 +1067,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/full/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/full/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-destructive-delete",
       "name": "lite Destructive delete",
       "description": "Destructive delete. Use trash or move to tmp instead.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -1098,16 +1098,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/lite/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-direct-push-to-protected-branch",
       "name": "lite Direct push to protected branch",
       "description": "Direct push to protected branch. Use a feature branch and PR.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -1129,16 +1129,16 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/lite/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
       "id": "dwarvesf-guardrails-lite-pipe-to-shell-detected",
       "name": "lite Pipe-to-shell detected",
       "description": "Pipe-to-shell detected. Download first, inspect, then execute.",
-      "version": "590bc5d",
+      "version": "39440d9",
       "tags": [
         "community",
         "security",
@@ -1160,9 +1160,9 @@
       "source": {
         "registry": "dwarvesf-guardrails",
         "repo": "dwarvesf/claude-guardrails",
-        "url": "https://github.com/dwarvesf/claude-guardrails/blob/590bc5de031e217247cdb06e4396e7ef3e192d3c/lite/settings.json",
+        "url": "https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/lite/settings.json",
         "ref": "main",
-        "sha": "590bc5d"
+        "sha": "39440d9"
       }
     },
     {
