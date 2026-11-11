@@ -45,7 +45,8 @@
 | dwarvesf-guardrails-lite-destructive-delete | lite Destructive delete | hook | dwarvesf | MIT | dwarvesf-guardrails | 39440d9 | https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/lite/settings.json |
 | dwarvesf-guardrails-lite-direct-push-to-protected-branch | lite Direct push to protected branch | hook | dwarvesf | MIT | dwarvesf-guardrails | 39440d9 | https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/lite/settings.json |
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | 39440d9 | https://github.com/dwarvesf/claude-guardrails/blob/39440d99715d67166e73d2765a347ca0bce1a877/lite/settings.json |
-| mcp-registry-achromat-machine-operational-memory | Achromat Machine Operational Memory | mcp | achromat-ai | MIT | mcp-registry | live | https://achromat.ai |
+| mcp-registry-a2ui-atomic-catalog | A2UI Atomic Catalog | mcp | a2uicatalog | MIT | mcp-registry | live | https://a2uicatalog.ai/ |
+| mcp-registry-a2ui-atomic-catalog-docs | A2UI Atomic Catalog docs | mcp | a2uicatalog | MIT | mcp-registry | live | https://a2uicatalog.ai/docs/ |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
 | mcp-registry-apex-ai-academy | Apex AI Academy | mcp | ApexAI-Academy | MIT | mcp-registry | live | https://apexai.academy/developers/ |
 | mcp-registry-apogee-bulk-ad-launcher-for-meta-tiktok-snapchat | Apogee: Bulk Ad Launcher for Meta, TikTok & Snapchat | mcp | ApogeeGIT | MIT | mcp-registry | live | https://www.apogee.ad/developers/mcp/ |

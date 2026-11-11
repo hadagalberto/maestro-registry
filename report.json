@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T12:41:23.210Z",
+  "updatedAt": "2026-11-11T11:54:10.531Z",
   "counts": {
     "anthropics-skills": 14,
     "obra-superpowers": 15,
@@ -7,9 +7,9 @@
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
     "dwarvesf-guardrails": 8,
-    "mcp-registry": 5
+    "mcp-registry": 6
   },
-  "totalItems": 72,
+  "totalItems": 73,
   "needsReview": [
     {
       "source": "anthropics-skills",
@@ -129,11 +129,6 @@
     {
       "source": "mcp-registry",
       "name": "A1 Lane",
-      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
-    },
-    {
-      "source": "mcp-registry",
-      "name": "Adako: ad ops for AI assistants",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     }
   ],

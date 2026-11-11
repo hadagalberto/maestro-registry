@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:41:23.210Z",
+  "updatedAt": "2026-11-11T11:54:10.531Z",
   "items": [
     {
       "id": "0xfurai-subagents-actix-expert",
@@ -1166,10 +1166,10 @@
       }
     },
     {
-      "id": "mcp-registry-achromat-machine-operational-memory",
-      "name": "Achromat Machine Operational Memory",
-      "description": "Recall and calibrate policy-compliant tool-call arguments before execution. Does not run the tool.",
-      "version": "0.1.5",
+      "id": "mcp-registry-a2ui-atomic-catalog",
+      "name": "A2UI Atomic Catalog",
+      "description": "500+ typed UI atoms an agent composes into real rendered interfaces. Free, no API key.",
+      "version": "1.0.0",
       "tags": [
         "mcp",
         "community"
@@ -1178,20 +1178,51 @@
         "claude",
         "gemini"
       ],
-      "dir": "mcps/mcp-registry-achromat-machine-operational-memory",
+      "dir": "mcps/mcp-registry-a2ui-atomic-catalog",
       "files": [
         "mcp.json"
       ],
       "sha256": {
-        "mcp.json": "027592829dc413bc59ee04156cc8e40cc7a2f31162e5c252e853def3a18c2570"
+        "mcp.json": "101a1b37981560e6464594133bb70d6fb9819eea1ccfa993eb2bb541d565ed27"
       },
       "type": "mcp",
       "license": "MIT",
-      "author": "achromat-ai",
+      "author": "a2uicatalog",
       "source": {
         "registry": "mcp-registry",
         "repo": "modelcontextprotocol/registry",
-        "url": "https://achromat.ai",
+        "url": "https://a2uicatalog.ai/",
+        "ref": "main",
+        "sha": "live"
+      }
+    },
+    {
+      "id": "mcp-registry-a2ui-atomic-catalog-docs",
+      "name": "A2UI Atomic Catalog docs",
+      "description": "Search the A2UI Atomic Catalog's own docs: auth, versioning, pricing, API surface.",
+      "version": "1.0.0",
+      "tags": [
+        "mcp",
+        "community"
+      ],
+      "clis": [
+        "claude",
+        "gemini"
+      ],
+      "dir": "mcps/mcp-registry-a2ui-atomic-catalog-docs",
+      "files": [
+        "mcp.json"
+      ],
+      "sha256": {
+        "mcp.json": "7f710a66a198ed64213cae787448c4d07d09e5b1c082e27f2307fee17996c047"
+      },
+      "type": "mcp",
+      "license": "MIT",
+      "author": "a2uicatalog",
+      "source": {
+        "registry": "mcp-registry",
+        "repo": "modelcontextprotocol/registry",
+        "url": "https://a2uicatalog.ai/docs/",
         "ref": "main",
         "sha": "live"
       }
