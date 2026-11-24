@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:42:32.310Z",
+  "updatedAt": "2026-11-24T14:54:38.542Z",
   "counts": {
     "anthropics-skills": 14,
     "obra-superpowers": 15,
@@ -7,9 +7,9 @@
     "0xfurai-subagents": 15,
     "karanb192-hooks": 0,
     "dwarvesf-guardrails": 8,
-    "mcp-registry": 6
+    "mcp-registry": 7
   },
-  "totalItems": 73,
+  "totalItems": 74,
   "needsReview": [
     {
       "source": "anthropics-skills",
@@ -119,11 +119,6 @@
     {
       "source": "mcp-registry",
       "name": "Contractor Licence Changes",
-      "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
-    },
-    {
-      "source": "mcp-registry",
-      "name": "Licensed House Painters",
       "reason": "licença não permissiva/ausente (origem: none, valor: nenhum)"
     },
     {

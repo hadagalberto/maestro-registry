@@ -45,6 +45,7 @@
 | dwarvesf-guardrails-lite-destructive-delete | lite Destructive delete | hook | dwarvesf | MIT | dwarvesf-guardrails | 645d67a | https://github.com/dwarvesf/claude-guardrails/blob/645d67a59c17ea88d49b61eef92cbd7d3d2878ca/lite/settings.json |
 | dwarvesf-guardrails-lite-direct-push-to-protected-branch | lite Direct push to protected branch | hook | dwarvesf | MIT | dwarvesf-guardrails | 645d67a | https://github.com/dwarvesf/claude-guardrails/blob/645d67a59c17ea88d49b61eef92cbd7d3d2878ca/lite/settings.json |
 | dwarvesf-guardrails-lite-pipe-to-shell-detected | lite Pipe-to-shell detected | hook | dwarvesf | MIT | dwarvesf-guardrails | 645d67a | https://github.com/dwarvesf/claude-guardrails/blob/645d67a59c17ea88d49b61eef92cbd7d3d2878ca/lite/settings.json |
+| mcp-registry-1alexander-ai-visibility-tracker | 1Alexander AI Visibility Tracker | mcp | 1alexander-ai | MIT | mcp-registry | live | https://1alexander.ai/ai-visibility-tracker/mcp |
 | mcp-registry-a2ui-atomic-catalog | A2UI Atomic Catalog | mcp | a2uicatalog | MIT | mcp-registry | live | https://a2uicatalog.ai/ |
 | mcp-registry-a2ui-atomic-catalog-docs | A2UI Atomic Catalog docs | mcp | a2uicatalog | MIT | mcp-registry | live | https://a2uicatalog.ai/docs/ |
 | mcp-registry-agency-goji-goji | agency.goji/goji | mcp | goji-agency | MIT | mcp-registry | live | https://goji.agency |
